@@ -38,7 +38,7 @@ const Layout = ({ children, data }) => (
       <Topbar />
       <Sidebar logo={data.wikiLogo} />
       {children()}
-    </PageGrid>
+      </PageGrid>
 
 
   </div>);

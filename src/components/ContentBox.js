@@ -25,6 +25,7 @@ const TableOfContent = styled.div`
   }
   ol{
     margin-bottom:0px;
+    line-height: 1.25rem;
   }
   li{
     margin-bottom:0px;
