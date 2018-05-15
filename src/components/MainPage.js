@@ -61,6 +61,7 @@ ul > li{
   & > a{
     color:#0645ad;
   }
+  margin-bottom:0px;
 }
 & > ul > li{
   padding:0px;
