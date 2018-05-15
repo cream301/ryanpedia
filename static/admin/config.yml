@@ -1,0 +1,16 @@
+backend:
+  name: github
+  repo: cream301/ryanpedia
+
+media_folder: static/assets
+
+collections:
+  - name: sections
+    label: Sections
+    folder: src/posts
+    create: true
+    fields:
+      - { name: title, label: name}
+      - { name: num, label: order}
+      - { name: type, label: type, widget: hidden, default: 'section' }
+      - { name: body, label: Post, widget: markdown }
