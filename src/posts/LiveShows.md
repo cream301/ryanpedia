@@ -1,22 +1,10 @@
 ---
-type: 'section'
-title: 'LiveShows'
+title: LiveShows
 num: '5'
-
+type: section
 ---
-#Live Shows
-this is text that is its is text that is its is text that is its is text that is its is text that is it
-* ok text
-* ok
-1. text
-2. text
-
-
+# Live Shows
 
 ## We Did It!
-
-
-
-
 
 ## Big Questions, Little Answers
