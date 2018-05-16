@@ -50,6 +50,13 @@ const Top = styled.div`
 	  li:nth-child(2){
 	    border-left:none;
 	    background-image:linear-gradient(white,#a7d7f97a 100%);
+			a{
+				text-decoration:none;
+				color:black;
+			}
+			a:hover{
+				border-bottom:1px solid black;
+			}
 	  }
 	  li:nth-child(3){
 	    border-left:none;
@@ -63,7 +70,7 @@ const TopBar = () => (
     <span>site made by <a href="https://twitter.com/liam_paris">Liam Paris</a></span>
     <ul>
       <li>Main Page</li>
-      <li>Talk</li>
+      <li><a href="mailto:ryancreamer301@gmail.com">Talk</a></li>
       <li />
     </ul>
   </Top>
