@@ -65,14 +65,13 @@ export function handleData(data) {
   let titleBody = '';
   const sections = [];
   data.allMarkdownRemark.edges.forEach((edge) => {
-    if (edge.node.frontmatter.type === 'contentLinks') {
-      edge.node.headings.forEach((heading) => {
-        contentLinks.push(heading);
-      });
-    } else if (edge.node.frontmatter.type === 'titleBody') {
+    if (edge.node.frontmatter.type === 'titleBody') {
       titleBody = edge.node.html;
     } else if (edge.node.frontmatter.type === 'section') {
       sections.push(edge);
+      edge.node.headings.forEach((heading) => {
+        contentLinks.push(heading);
+      });
     }
   });
   return {
