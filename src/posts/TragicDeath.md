@@ -4,5 +4,3 @@ num: '6'
 type: section
 ---
 ## \#Tragic Death
-
-Ryan Creamer is not dead. He wishes you clicked on anything but this.
