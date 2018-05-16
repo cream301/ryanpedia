@@ -114,7 +114,7 @@ const MainPage = ({
       <ImageBox probox={probox} headshot={headshot} />
     </TopSection>
     <SectionContainer>
-      {sections.map(section => <Section data={section} />)}
+      {sections.map(section => <Section key={section.node.frontmatter.num} data={section} />)}
     </SectionContainer>
   </Main>
 

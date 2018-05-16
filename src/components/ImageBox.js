@@ -64,7 +64,7 @@ const ImageBox = data => (
       </ProfilePic>
       <ProfileInfo>
         {data.probox.map(info => (
-          <div className="infoRow">
+          <div key={info[0]} className="infoRow">
             <div>{info[0]}</div>
             <div>{info[1]}</div>
           </div>

@@ -41,9 +41,9 @@ class ContentBox extends React.Component {
     this.links = this.props.links;
     this.nestedList = (link) => {
       if (typeof (link) === 'object') {
-        return <ol>{link.map(this.nestedList)}</ol>;
+        return <ol key={`${link} list`}>{link.map(this.nestedList)}</ol>;
       } else if (typeof (link) === 'string') {
-        return <li><Scrollchor to={link.split(' ').join('_')}>{link}</Scrollchor></li>;
+        return <li key={link}><Scrollchor to={link.split(' ').join('_')}>{link}</Scrollchor></li>;
       }
     };
   }
