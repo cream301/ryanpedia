@@ -13,7 +13,7 @@ type: section
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gFSt1MIws-c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## **Porn Parody Reviews**
+## CollegeHumor **Porn Parody Reviews**
 
 * [We Watched the Spongebob Squarepants Porn Parody So You Don't Have To](http://www.collegehumor.com/post/7055484/porn-parody-review-spongebob-squarepants)
 * [We Watched the Rugrats Porn Parody So You Don't Have To](http://www.collegehumor.com/post/7055587/rugrats-porn-parody)
