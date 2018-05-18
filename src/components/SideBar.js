@@ -10,6 +10,9 @@ const Side = styled.div`
 	font-weight:20;
 	color:blue;
 	padding: 0 2% 0 2%;
+	& > Link > img{
+		max-width:300px;
+	}
 	ul{
 	  list-style:none;
 	  margin: 0;
