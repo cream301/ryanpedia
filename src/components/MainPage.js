@@ -105,7 +105,7 @@ const MainPage = ({
 }) => (
   <Main>
     <h1 className="title" >Ryan Creamer       <i className="fa fa-lock" /></h1>
-    <p className="fromRyy">From Ryanpedia, the free ryyclopedia</p>
+    <p className="fromRyy">From Ryanpedia, the free Ryyclopedia</p>
     <TopSection>
       <Body>
         <div dangerouslySetInnerHTML={{ __html: titleBody }} />

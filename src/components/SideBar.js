@@ -49,7 +49,7 @@ const Side = styled.div`
 `;
 const SideBar = ({ logo }) => (
   <Side>
-    <img
+    <Link to="/"><img
       style={{
         paddingTop: '1rem',
         width: '100%',
@@ -58,12 +58,7 @@ const SideBar = ({ logo }) => (
       src={logo.sizes.src}
       alt="Ryanpedia"
     />
-    <ul>
-      <li><Link to="/page-2/">Main Page</Link></li>
-      <li><Link to="/page-2/">Contents</Link></li>
-      <li><Link to="/page-2/">Featured Content</Link></li>
-      <li><Link to="/page-2/">Random Article</Link></li>
-    </ul>
+    </Link>
     <div>
       <p>Interaction with Ryan</p>
       <ul>

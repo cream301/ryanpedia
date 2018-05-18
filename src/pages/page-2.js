@@ -26,8 +26,7 @@ h1{
 `;
 const SecondPage = () => (
   <Why>
-    <h1>Man...why did you even click on this?</h1>
-    <Link to="/">Get back to the good stuff cool guy</Link>
+    <Link to="/">Get back to Ryan!</Link>
   </Why>
 );
 
