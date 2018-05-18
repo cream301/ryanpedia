@@ -71,6 +71,7 @@ ul > li{
 const Body = styled.div`
 grid-area:body;
 font-size:15px;
+align-content:end;
 p{
   margin:0px;
 }
@@ -86,10 +87,9 @@ const TopSection = styled.div`
   grid-auto-rows: auto auto;
   grid-template-areas: "body body imagebox" "navbox . imagebox";
   margin-bottom:2rem;
-  grid-row-gap: 10px;
+  grid-row-gap: 5px;
   @media(max-width:950px){
     grid-template-areas: "imagebox imagebox imagebox" "navbox body body ";
-    grid-row-gap:3rem;
     grid-column-gap: 1.5rem
   }
 `;

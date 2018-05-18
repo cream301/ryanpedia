@@ -6,7 +6,6 @@ import styled from 'styled-components';
 const Content = styled.div`
   grid-area: navbox;
   display:grid;
-  align-content:end;
 `;
 const TableOfContent = styled.div`
   display:inline-block;
