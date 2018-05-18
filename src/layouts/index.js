@@ -24,7 +24,7 @@ const Layout = ({ children, data }) => (
       meta={[
     { name: 'description', content: 'Ryan Creamer' },
     { name: 'keywords', content: 'Ryanpedia, Ryan Creamer, Ryan, Creamer, Ryan Creamer Comedy,' },
-    { name: 'viewport', content: 'width=device-width, initial-scale=2.0' },
+    { name: 'viewport', content: 'width=device-width, initial-scale=.75' },
   ]}
       link={[
     { rel: 'shortcut icon', type: 'image/png', href: Fav },
@@ -39,7 +39,7 @@ const Layout = ({ children, data }) => (
       <Topbar />
       <Sidebar logo={data.wikiLogo} />
       {children()}
-    </PageGrid>
+      </PageGrid>
 
 
   </div>);
