@@ -11,7 +11,7 @@ import Fav from '../images/Favicon.png';
 const PageGrid = styled.div`
   display:grid;
   grid-template-columns: 1fr 8fr;
-  grid-template-rows: 1fr 30fr;
+  grid-template-rows: 10vh 30fr;
   grid-template-areas: "sidebar topbar"
                        "sidebar content";
   background-image: linear-gradient(white,#afafaf36 30%);
