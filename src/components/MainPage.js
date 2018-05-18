@@ -68,32 +68,41 @@ ul > li{
   margin:0px;
 }
 `;
-const Body = styled.div`
-grid-area:body;
-font-size:15px;
-align-content:end;
-p{
-  margin:0px;
-}
-ul{
-  padding-bottom:5px;
-  margin:0px;
-}
-`;
-
 const TopSection = styled.div`
   display:grid;
-  grid-template-columns:2fr 4fr 4fr;
-  grid-auto-rows: auto auto;
-  grid-template-areas: "body body imagebox" "navbox . imagebox";
+  grid-template-columns: auto auto;
+  grid-auto-rows: auto;
+  grid-template-areas: "bodyandnav imagebox";
   margin-bottom:2rem;
   grid-row-gap: 5px;
   @media(max-width:950px){
-    grid-template-areas: "imagebox imagebox imagebox" "navbox body body ";
+    grid-auto-rows:auto;auto
+    grid-template-areas: "imagebox" "bodyandnav";
     grid-column-gap: 1.5rem
   }
 `;
-
+const BodyAndNav = styled.div`
+  grid-area: bodyandnav;
+  @media(max-width:950px){
+    grid-template-columns:auto auto;
+    grid-template-rows:auto;
+    grid-template-areas: "body navbox"
+    grid-column-gap: 1.5rem
+  }
+`;
+const Body = styled.div`
+  grid-area:body;
+  font-size:15px;
+  align-content:end;
+  margin-bottom:10px;
+  p{
+    margin:0px;
+  }
+  ul{
+    padding-bottom:5px;
+    margin:0px;
+  }
+`;
 const SectionContainer = styled.div`
 display:grid;
 grid-template-columns:auto;
@@ -107,10 +116,12 @@ const MainPage = ({
     <h1 className="title" >Ryan Creamer       <i className="fa fa-lock" /></h1>
     <p className="fromRyy">From Ryanpedia, the free Ryyclopedia</p>
     <TopSection>
-      <Body>
-        <div dangerouslySetInnerHTML={{ __html: titleBody }} />
-      </Body>
-      <ContentBox links={contentLinks} />
+      <BodyAndNav>
+        <Body>
+          <div dangerouslySetInnerHTML={{ __html: titleBody }} />
+        </Body>
+        <ContentBox links={contentLinks} />
+      </BodyAndNav>
       <ImageBox probox={probox} headshot={headshot} />
     </TopSection>
     <SectionContainer>

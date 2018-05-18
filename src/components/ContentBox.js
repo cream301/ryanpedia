@@ -9,15 +9,19 @@ const Content = styled.div`
 `;
 const TableOfContent = styled.div`
   display:inline-block;
-  width:auto;
+  width:fit-content;
   height:auto;
-  align-self: center;
+  align-self: start;
   padding:5px;
   color:black;
   border: 1px solid #a2a9b1;
   background-color: #f8f9fa;
   font-size: 13.3px;
+  & > *{
+    display:inline-block
+  }
   p{
+      width auto;
       text-align:left;
       margin-bottom:0px
       font-weight:bold;
@@ -28,6 +32,7 @@ const TableOfContent = styled.div`
   }
   li{
     margin-bottom:0px;
+    width:auto;
     a:after{
       content:'';
     }
@@ -50,7 +55,7 @@ class ContentBox extends React.Component {
     return (
       <Content>
         <TableOfContent>
-          <p>Contents</p>
+          <p>Contents</p><br />
           <ol>{this.links.map(this.nestedList)}</ol>
         </TableOfContent>
       </Content>

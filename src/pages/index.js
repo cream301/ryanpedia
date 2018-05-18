@@ -13,7 +13,7 @@ const IndexPage = ({ data }) => ({
         sections={wikiData.sections}
         probox={wikiData.probox}
         headshot={wikiData.headshot}
-       />
+      />
     );
   },
 });
