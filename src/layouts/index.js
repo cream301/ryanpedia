@@ -10,7 +10,7 @@ import Fav from '../images/Favicon.png';
 
 const PageGrid = styled.div`
   display:grid;
-  grid-template-columns: 1fr 8fr;
+  grid-template-columns: 10rem 8fr;
   grid-template-rows: 10vh 30fr;
   grid-template-areas: "sidebar topbar"
                        "sidebar content";
@@ -22,8 +22,9 @@ const Layout = ({ children, data }) => (
     <Helmet
       title={data.site.siteMetadata.title}
       meta={[
-    { name: 'description', content: 'Sample' },
-    { name: 'keywords', content: 'sample, something' },
+    { name: 'description', content: 'Ryan Creamer' },
+    { name: 'keywords', content: 'Ryanpedia, Ryan Creamer, Ryan, Creamer, Ryan Creamer Comedy,' },
+    { name: 'viewport', content: 'width=device-width, initial-scale=2.0' },
   ]}
       link={[
     { rel: 'shortcut icon', type: 'image/png', href: Fav },
