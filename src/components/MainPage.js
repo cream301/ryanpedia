@@ -76,17 +76,19 @@ const TopSection = styled.div`
   margin-bottom:2rem;
   grid-row-gap: 5px;
   @media(max-width:950px){
-    grid-auto-rows:auto;auto
+    grid-auto-rows:auto auto
     grid-template-areas: "imagebox" "bodyandnav";
+    grid-row-gap: 1.5rem
     grid-column-gap: 1.5rem
   }
 `;
 const BodyAndNav = styled.div`
   grid-area: bodyandnav;
   @media(max-width:950px){
+    display:grid;
     grid-template-columns:auto auto;
     grid-template-rows:auto;
-    grid-template-areas: "body navbox"
+    grid-template-areas: "navbox body";
     grid-column-gap: 1.5rem
   }
 `;
