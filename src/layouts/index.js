@@ -20,9 +20,9 @@ const PageGrid = styled.div`
 const Layout = ({ children, data }) => (
   <div>
     <Helmet
-      title={data.site.siteMetadata.title}
+      title="Ryanpedia - Ryan Creamer Comedy"
       meta={[
-    { name: 'description', content: 'Ryan Creamer' },
+    { name: 'description', content: "Ryanpedia, Comedian Ryan Creame's personal portfolio" },
     { name: 'keywords', content: 'Ryanpedia, Ryan Creamer, Ryan, Creamer, Ryan Creamer Comedy,' },
     { name: 'viewport', content: 'width=device-width, initial-scale=.5' },
   ]}
@@ -39,7 +39,7 @@ const Layout = ({ children, data }) => (
       <Topbar />
       <Sidebar logo={data.wikiLogo} />
       {children()}
-      </PageGrid>
+    </PageGrid>
 
 
   </div>);

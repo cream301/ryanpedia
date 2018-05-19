@@ -59,7 +59,7 @@ const ImageBox = data => (
     <ProContainer>
       <ProfilePic>
         <p>Ryan Creamer</p>
-        <img src={data.headshot.sizes.src} alt="Ryans Headshot" />
+        <img src={data.headshot.sizes.src} alt="Ryan Creamer Headshot" />
         <p>Ryan's Face</p>
       </ProfilePic>
       <ProfileInfo>

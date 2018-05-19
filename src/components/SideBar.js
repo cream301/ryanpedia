@@ -59,7 +59,7 @@ const SideBar = ({ logo }) => (
         marginBottom: '.5rem',
     }}
       src={logo.sizes.src}
-      alt="Ryanpedia"
+      alt="Ryanpedia logo"
     />
     </Link>
     <div>
