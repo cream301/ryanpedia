@@ -7,6 +7,7 @@ import './index.css';
 import Topbar from '../components/TopBar';
 import Sidebar from '../components/SideBar';
 import Fav from '../images/Favicon.png';
+import '../../static/assets/web-fonts-with-css/css/fontawesome-all.min.css';
 
 const PageGrid = styled.div`
   display:grid;
@@ -28,13 +29,7 @@ const Layout = ({ children, data }) => (
   ]}
       link={[
     { rel: 'shortcut icon', type: 'image/png', href: Fav },
-    {
-      rel: 'stylesheet',
-      href: 'https://use.fontawesome.com/releases/v5.0.12/css/all.css',
-      integrity: 'sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9',
-      crossorigin: 'anonymous',
-    },
-  ]}
+   ]}
     /><PageGrid>
       <Topbar />
       <Sidebar logo={data.wikiLogo} />
