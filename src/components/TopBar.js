@@ -59,10 +59,24 @@ const Top = styled.div`
     }
     span{
       font-size: inherit;
+      position:relative
       button{
         background-color:inherit;
         border: solid black 1px;
         margin-left:20px;
+        z-index:1000;
+        position:absolute;
+        bottom:-10;
+        border: solid black 1px;
+        border-top: none;
+        margin-left: 20px;
+        z-index: 1000;
+        position: absolute;
+        left: 15%;
+        bottom: -31px;
+        height: 30px;
+        background-color: #FFCC00;
+        cursor:pointer
       }
     }
   }
