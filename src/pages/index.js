@@ -47,7 +47,7 @@ export const query = graphql`
     }
   }
   headShot: imageSharp(id:{regex:"/headshot.jpg/"}){
-    sizes(maxWidth:350){
+    sizes(maxWidth:1000){
       ...GatsbyImageSharpSizes
     }
   }
