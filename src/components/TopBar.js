@@ -64,18 +64,6 @@ const Top = styled.div`
         background-color:inherit;
         border: solid black 1px;
         margin-left:20px;
-        z-index:1000;
-        position:absolute;
-        bottom:-10;
-        border: solid black 1px;
-        border-top: none;
-        margin-left: 20px;
-        z-index: 1000;
-        position: absolute;
-        left: 15%;
-        bottom: -31px;
-        height: 30px;
-        background-color: #FFCC00;
         cursor:pointer
       }
     }
@@ -144,7 +132,7 @@ class TopBar extends React.Component {
                 <em>Thank you, from the Ryanpedia Foundation</em>.
                 <a href="https://venmo.com/RyanCreamer?via=searchbox"><button>Please Help</button></a>
               </span>
-              <div className="close" onClick={this.closeDonation} ><i className="fas fa-times" /></div>
+              <div className="close" onClick={this.closeDonation} onTouchStart={this.closeDonation} ><i className="fas fa-times" /></div>
             </div>) : (<div id="donationbox" style={{ backgroundColor: 'inherit' }} />)
       }
           <ul>
