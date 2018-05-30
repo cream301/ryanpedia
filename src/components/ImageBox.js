@@ -60,7 +60,7 @@ const ImageBox = data => (
       <ProfilePic>
         <p>Ryan Creamer</p>
         <img src={data.headshot.sizes.src} alt="Ryan Creamer Headshot" />
-        <p>Ryan's Face</p>
+        <p />
       </ProfilePic>
       <ProfileInfo>
         {data.probox.map(info => (
