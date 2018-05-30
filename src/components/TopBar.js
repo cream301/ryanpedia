@@ -128,7 +128,7 @@ class TopBar extends React.Component {
         We run on donations sent directly to Ryan Creamer's bank account. If everyone reading this
         gave $5, Ryan Creamer would have a lot more money than he does currently.
                 <em>Thank you, from the Ryanpedia Foundation</em>.
-                <button href="https://venmo.com/RyanCreamer?via=searchbox">Please Help</button>
+                <a href="https://venmo.com/RyanCreamer?via=searchbox"><button>Please Help</button></a>
               </span>
               <div className="close" onClick={this.closeDonation} ><i className="fas fa-times" /></div>
             </div>) : (<div id="donationbox" style={{ backgroundColor: 'inherit' }} />)
