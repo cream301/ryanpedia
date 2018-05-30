@@ -64,7 +64,7 @@ const Top = styled.div`
         background-color:inherit;
         border: solid black 1px;
         margin-left:20px;
-        cursor:pointer
+        cursor:pointer;
       }
     }
   }
