@@ -11,7 +11,7 @@ import Fav from '../images/Favicon.png';
 const PageGrid = styled.div`
   display:grid;
   grid-template-columns: 10rem 8fr;
-  grid-template-rows: 10vh 30fr;
+  grid-template-rows: auto 30fr;
   grid-template-areas: "sidebar topbar"
                        "sidebar content";
   background-image: linear-gradient(white,#afafaf36 30%);
@@ -39,7 +39,7 @@ const Layout = ({ children, data }) => (
       <Topbar />
       <Sidebar logo={data.wikiLogo} />
       {children()}
-    </PageGrid>
+      </PageGrid>
 
 
   </div>);
