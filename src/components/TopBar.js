@@ -130,7 +130,7 @@ class TopBar extends React.Component {
                 <em>Thank you, from the Ryanpedia Foundation</em>.
                 <button href="https://venmo.com/RyanCreamer?via=searchbox">Please Help</button>
               </span>
-              <div className="close"><i className="fas fa-times" onClick={this.closeDonation} /></div>
+              <div className="close" onClick={this.closeDonation} ><i className="fas fa-times" /></div>
             </div>) : (<div id="donationbox" style={{ backgroundColor: 'inherit' }} />)
       }
           <ul>
