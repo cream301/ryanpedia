@@ -3,7 +3,7 @@ title: Videos Written
 num: '2'
 type: section
 ---
-# 
+# Videos Written
 
 ## **Dorkly Bits**
 
