@@ -1,6 +1,6 @@
 ---
 title: Articles Written
-num: '4'
+num: '3'
 type: section
 ---
 ## CollegeHumor
