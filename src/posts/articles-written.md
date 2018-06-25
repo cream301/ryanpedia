@@ -3,6 +3,8 @@ title: Articles Written
 num: '3'
 type: section
 ---
+# Articles Written
+
 ## CollegeHumor
 
 * [New Ways Joyce Will Ruin Her Home In Future Stranger Things Seasons](http://www.collegehumor.com/post/7054278/new-ways-joyce-will-ruin-her-home-in-future-stranger-things-seasons)
