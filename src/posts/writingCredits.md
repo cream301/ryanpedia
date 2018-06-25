@@ -13,7 +13,7 @@ type: section
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gFSt1MIws-c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## CollegeHumor 
+## CollegeHumor
 
 * [New Ways Joyce Will Ruin Her Home In Future Stranger Things Seasons](http://www.collegehumor.com/post/7054278/new-ways-joyce-will-ruin-her-home-in-future-stranger-things-seasons)
 * [We Re-Imagined What Live Action Disney Movies Would Look Like As Animations](http://www.collegehumor.com/post/7055405/disney-should-remake-these-incredible-live-action-movies-into-cartoons)
@@ -21,16 +21,6 @@ type: section
 * [Listen, If We All Steal from Amazon Go They Can't Get All of Us](http://www.collegehumor.com/post/7054987/listen-if-we-all-steal-from-amazon-go-they-cant-get-all-of-us)
 * [What All 17 Year Olds Who Aren't Winning Olympic Golds Are Doing](http://www.collegehumor.com/post/7055267/what-all-17-year-olds-who-arent-winning-olympic-golds-are-doing)
 * [Monopoly Cards: Then vs. Now](http://www.collegehumor.com/post/7054448/monopoly-cards-then-vs-now)
-
-## **Porn Parody Reviews**
-
-* [We Watched the Spongebob Squarepants Porn Parody So You Don't Have To](http://www.collegehumor.com/post/7055484/porn-parody-review-spongebob-squarepants)
-* [We Watched the Rugrats Porn Parody So You Don't Have To](http://www.collegehumor.com/post/7055587/rugrats-porn-parody)
-* [We Watched the Pokemon Porn Parody So You Don't Have To](http://www.collegehumor.com/post/7055673/we-watched-the-pokemon-porn-parody-so-you-dont-have-to)
-* [We Watched the Dragonball Z Porn Parody So You Don't Have To](http://www.collegehumor.com/post/7055969/dragonballz-porn-parody)
-* [We Watched the Toy Story Porn Parody So You Don't Have To](http://www.collegehumor.com/post/7055789/we-watched-the-toy-story-porn-parody-so-you-dont-have-to)
-* [We Watched the Adventure Time Porn Parody So You Don't Have To](http://www.collegehumor.com/post/7056120/we-watched-the-adventure-time-porn-parody-so-you-dont-have-to)
-* [We Watched the Hamilton Porn Parody So You Don't Have To](http://www.collegehumor.com/post/7056342/we-watched-the-hamilton-porn-parody-so-you-dont-have-to)
 
 ## **Reductress**
 
