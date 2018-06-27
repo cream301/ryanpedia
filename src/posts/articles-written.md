@@ -1,9 +1,9 @@
 ---
-title: Articles
+title: Writing
 num: '3'
 type: section
 ---
-# Articles
+# Writing
 
 ## CollegeHumor
 
