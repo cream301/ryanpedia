@@ -7,6 +7,7 @@ type: section
 
 ## CollegeHumor
 
+* [Love Westworld? You'll Flip For This Robotless Theme Park That Lets You Ride Rollercoasters and Thrill Rides](http://www.collegehumor.com/post/7056922/westworld-rollercoasters)
 * [New Ways Joyce Will Ruin Her Home In Future Stranger Things Seasons](http://www.collegehumor.com/post/7054278/new-ways-joyce-will-ruin-her-home-in-future-stranger-things-seasons)
 * [We Re-Imagined What Live Action Disney Movies Would Look Like As Animations](http://www.collegehumor.com/post/7055405/disney-should-remake-these-incredible-live-action-movies-into-cartoons)
 * [Internet Comedy Isn't Dead Sweetheart, It Just Ran Away While You Were At Summer Camp](http://www.collegehumor.com/post/7055820/internet-comedy-dead)
