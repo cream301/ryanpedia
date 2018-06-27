@@ -1,9 +1,9 @@
 ---
-title: Videos Written
+title: Videos
 num: '2'
 type: section
 ---
-# Videos Written
+# Videos
 
 ## **Dorkly Bits**
 
