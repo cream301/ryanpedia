@@ -7,13 +7,15 @@ type: section
 
 ## CollegeHumor
 
+* [How I Live in NYC on Just a Cartoon Wheelbarrow Overflowing with Money a Week](http://www.collegehumor.com/post/7057278/how-i-live-in-nyc-on-just-a-cartoon-wheelbarrow-overflowing-with-money-a-week)
+* [These MoviePass Emails Are Getting Out of Hand](http://www.collegehumor.com/post/7057515/these-moviepass-emails-are-getting-out-of-hand)
 * [Love Westworld? You'll Flip For This Robotless Theme Park That Lets You Ride Rollercoasters and Thrill Rides](http://www.collegehumor.com/post/7056922/westworld-rollercoasters)
 * [New Ways Joyce Will Ruin Her Home In Future Stranger Things Seasons](http://www.collegehumor.com/post/7054278/new-ways-joyce-will-ruin-her-home-in-future-stranger-things-seasons)
 * [We Re-Imagined What Live Action Disney Movies Would Look Like As Animations](http://www.collegehumor.com/post/7055405/disney-should-remake-these-incredible-live-action-movies-into-cartoons)
-* [Internet Comedy Isn't Dead Sweetheart, It Just Ran Away While You Were At Summer Camp](http://www.collegehumor.com/post/7055820/internet-comedy-dead)
-* [Listen, If We All Steal from Amazon Go They Can't Get All of Us](http://www.collegehumor.com/post/7054987/listen-if-we-all-steal-from-amazon-go-they-cant-get-all-of-us)
+* [The United States Military Ranks, Officially Ranked](http://www.collegehumor.com/post/7057118/the-united-states-military-ranks-officially-ranked)
 * [What All 17 Year Olds Who Aren't Winning Olympic Golds Are Doing](http://www.collegehumor.com/post/7055267/what-all-17-year-olds-who-arent-winning-olympic-golds-are-doing)
 * [Monopoly Cards: Then vs. Now](http://www.collegehumor.com/post/7054448/monopoly-cards-then-vs-now)
+* [A Eulogy For My Spotify App I Closed Accidentally While Closing Other Apps](http://www.collegehumor.com/post/7056977/eulogy-spotify-app)
 
 ## **Reductress**
 
