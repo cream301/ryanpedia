@@ -2,7 +2,6 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import styled from 'styled-components';
-import Header from '../components/header';
 import './index.css';
 import Topbar from '../components/TopBar';
 import Sidebar from '../components/SideBar';
@@ -12,7 +11,7 @@ import '../../static/assets/web-fonts-with-css/css/fontawesome-all.min.css';
 const PageGrid = styled.div`
   display:grid;
   grid-template-columns: 10rem 8fr;
-  grid-template-rows: auto 30fr;
+  grid-template-rows: auto auto;
   grid-template-areas: "sidebar topbar"
                        "sidebar content";
   background-image: linear-gradient(white,#afafaf36 30%);
@@ -23,18 +22,19 @@ const Layout = ({ children, data }) => (
     <Helmet
       title="Ryanpedia - Ryan Creamer Comedy"
       meta={[
-    { name: 'description', content: "Ryanpedia, Comedian Ryan Creame's personal portfolio" },
-    { name: 'keywords', content: 'Ryanpedia, Ryan Creamer, Ryan, Creamer, Ryan Creamer Comedy,' },
-    { name: 'viewport', content: 'width=device-width, initial-scale=.5' },
-  ]}
+        { name: 'description', content: "Ryanpedia, Comedian Ryan Creame's personal portfolio" },
+        { name: 'keywords', content: 'Ryanpedia, Ryan Creamer, Ryan, Creamer, Ryan Creamer Comedy,' },
+        { name: 'viewport', content: 'width=device-width, initial-scale=.5' },
+      ]}
       link={[
-    { rel: 'shortcut icon', type: 'image/png', href: Fav },
-   ]}
-    /><PageGrid>
+        { rel: 'shortcut icon', type: 'image/png', href: Fav },
+      ]}
+    />
+    <PageGrid>
       <Topbar />
       <Sidebar logo={data.wikiLogo} />
       {children()}
-      </PageGrid>
+    </PageGrid>
 
 
   </div>);

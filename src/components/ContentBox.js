@@ -1,5 +1,4 @@
 import React from 'react';
-import Link from 'gatsby-link';
 import Scrollchor from 'react-scrollchor';
 import styled from 'styled-components';
 
@@ -12,26 +11,26 @@ const TableOfContent = styled.div`
   width:fit-content;
   height:auto;
   align-self: start;
-  padding:5px;
+  padding:.5vh;
   color:black;
   border: 1px solid #a2a9b1;
   background-color: #f8f9fa;
-  font-size: 13.3px;
+  font-size: 13px;
   & > *{
     display:inline-block
   }
   p{
-      width auto;
+      width: auto;
       text-align:left;
-      margin-bottom:0px
+      margin-bottom:0;
       font-weight:bold;
   }
   ol{
-    margin-bottom:0px;
+    margin-bottom:0;
     line-height: 1.25rem;
   }
   li{
-    margin-bottom:0px;
+    margin-bottom:0;
     width:auto;
     a:after{
       content:'';
@@ -63,17 +62,3 @@ class ContentBox extends React.Component {
   }
 }
 export default ContentBox;
-
-/*
- [<span id="show_hide_button" onClick={this.hideShowBox}>hide</span>]
-  ref={this.contentLinks}
-
-  this.hideShowBox = this.hideShowBox.bind(this);
-    this.contentLinks = React.createRef();
-  }
-  hideShowBox() {
-    const navBox = this.contentLinks.current;
-    navBox.classList.toggle('hideLinks');
-    console.log('it happened!');
-  }
- */

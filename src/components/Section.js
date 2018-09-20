@@ -1,5 +1,4 @@
 import React from 'react';
-import Link from 'gatsby-link';
 
 import styled from 'styled-components';
 
@@ -7,24 +6,24 @@ const Content = styled.div`
   background-color:white;
   font-weight: 300;
   & > *{
-    margin-left: 10px;
+    margin-left: 1vh;
   }
   h1{
-  	border-bottom:solid 1px grey;
-  	font-family: 'Linux Libertine','Georgia','Times',serif;
-  	line-height: 1.3;
-  	margin-bottom: 0.25em;
-  	padding: 0;
-  	font-size: 2em;
+    border-bottom:solid 1px grey;
+    font-family: 'Linux Libertine','Georgia','Times',serif;
+    line-height: 1.3;
+    margin-bottom: 0.25em;
+    padding: 0;
+    font-size: 2em;
     font-weight:300;
-  	color:black;
+    color:black;
     position:relative;
-    margin-bottom:10px
+    margin-bottom:1vh;
   }
   h2{
     font-size: 1.6em;
     margin-bottom:0px;
-    padding: 20px 0 10px 0px;
+    padding: 2vh 0 1vh 0;
   }
   p{
     font-size: 1.2em;
@@ -35,10 +34,10 @@ const Content = styled.div`
     font-weight:400;
   }
   ul{
-    padding-left:15px;
+    padding-left:1.5vh;
   }
   ol{
-    padding-left:15px;
+    padding-left:1.5vh;
   }
   iframe{
       width:500px;

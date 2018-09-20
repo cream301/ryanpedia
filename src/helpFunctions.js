@@ -1,3 +1,4 @@
+// sort function for sections based on order set in each markdown file
 export function sortSections(a, b) {
   const sec1 = parseInt(a.node.frontmatter.num, 10);
   const sec2 = parseInt(b.node.frontmatter.num, 10);
@@ -9,6 +10,7 @@ export function sortSections(a, b) {
   }
   return comparison;
 }
+// called by sortNav-- recursive function that takes flat array and turns it into a nested one
 export function nestedArrays(array, index) {
   const nest = [];
   let i = index;
@@ -26,6 +28,7 @@ export function nestedArrays(array, index) {
   }
   return { nest, i };
 }
+// sorts navigation links, initial creates an array with navigation link that indicates depth, then calls nestedArrays to turn into a nested array
 export function sortNav(contentLinks) {
   const navOrder = [];
   let currentDepth = 1;
@@ -52,10 +55,10 @@ export function sortNav(contentLinks) {
       navOrder.push(-1);
     }
   } else { navOrder.push(-1); }
-
   return nestedArrays(navOrder, 0).nest;
 }
 
+// initial function to properly parse data, sorts navigation links and sections
 export function handleData(data) {
   const title = data.site.siteMetadata.title;
   const wikiLogo = data.wikiLogo;

@@ -7,10 +7,10 @@ const ProfileBox = styled.div`
 const ProContainer = styled.div`
   width:70%;
   margin-left:auto;
-  margin-right:auto
+  margin-right:auto;
   height:auto;
   display:grid;
-  grid-template-columns:1fr;
+  grid-template-columns:auto;
   grid-auto-rows: auto auto;
   border: 1px solid #a2a9b1;
   background-color: #f8f9fa;
@@ -24,17 +24,16 @@ const ProfilePic = styled.div`
     width:65%;
     margin-left:auto;
     margin-right:auto;
-    margin-bottom:2px;
+    margin-bottom:1vh;
   }
   p:nth-child(1){
-    margin:0px;
-    padding:0px;
-    margin-bottom:5px;
+    margin:0 0 1vh 0;
+    padding:0;
     font-size:14px;
   }
   p:nth-child(3){
-    margin:0px;
-    padding:0px;
+    margin:0;
+    padding:0;
     font-size:11px;
   }
 `;
@@ -47,10 +46,10 @@ const ProfileInfo = styled.div`
     display:grid;
     grid-template-columns:1fr 3fr;
     grid-template-rows:auto;
-    padding-top:5px;
+    padding-top:.5vh;
     & > div:nth-child(odd){
       font-weight:bold;
-      margin-left:10px;
+      margin-left:.5vh;
     }
   }
 `;
@@ -68,7 +67,7 @@ const ImageBox = data => (
             <div>{info[0]}</div>
             <div>{info[1]}</div>
           </div>
-          ))}
+        ))}
       </ProfileInfo>
     </ProContainer>
   </ProfileBox>

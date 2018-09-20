@@ -12,7 +12,7 @@ const Top = styled.div`
   div#siteby{
     display:grid;
     justify-items: right;
-    padding-right: 7px;
+    padding-right: 1.25vw;
   }
   span{
     font-size:10px;
@@ -32,13 +32,13 @@ const Top = styled.div`
     font-weight:bold;
     height:auto;
     min-height:3rem;
-    padding-bottom:5px;
+    padding-bottom:1vh;
     div{
       display:grid;
       justify-items:center;
       font-size:10px;
       div.info-circle-logo{
-        margin-top:5px;
+        margin-top:.25vh;
         background-color:#2db0ed;
         color:white;
         border-radius:30px;
@@ -47,14 +47,14 @@ const Top = styled.div`
         display:grid;
         i{
           justify-self: center;
-          padding-top: 2px;
+          padding-top: .1vh;
         }
       }
     }
     div.close{
-      margin-top:5px;
+      margin-top:.5vh;
       i{
-        padding-top:2px;
+        padding-top:.25vh;
       }
     }
     span{
@@ -63,7 +63,7 @@ const Top = styled.div`
       button{
         background-color:inherit;
         border: solid black 1px;
-        margin-left:20px;
+        margin-left:1vh;
         cursor:pointer;
       }
     }
@@ -73,13 +73,13 @@ const Top = styled.div`
     grid-template-columns: 5rem 3rem auto;
     grid-template-rows:auto;
     list-style:none;
-    padding:0px;
-    margin:0px;
+    padding:0;
+    margin:0;
     width:100%;
     background-color:transparent;
     li{
       padding:0px 5px 0px 5px;
-      margin:0px;
+      margin:0;
       background-color:white;
       color:black;
       border-width:1px;
@@ -126,15 +126,15 @@ class TopBar extends React.Component {
           { this.state.Donation ? (
             <div id="donationbox"><div><div className="info-circle-logo"><i className="fa fa-info" aria-hidden="true" /></div></div>
               <span><em>Dear Ryanpedia readers</em>: We are the small team that runs this #5 website in the
-        world. To protect our independence, we'll never run ads. We take no government funds.
-        We run on donations sent directly to Ryan Creamer's bank account. If everyone reading this
-        gave $5, Ryan Creamer would have a lot more money than he does currently.
+                world. To protect our independence, we'll never run ads. We take no government funds.
+                We run on donations sent directly to Ryan Creamer's bank account. If everyone reading this
+                gave $5, Ryan Creamer would have a lot more money than he does currently.
                 <em>Thank you, from the Ryanpedia Foundation</em>.
                 <a href="https://venmo.com/RyanCreamer?via=searchbox"><button>Please Help</button></a>
               </span>
               <div className="close" onClick={this.closeDonation} onTouchStart={this.closeDonation} ><i className="fas fa-times" /></div>
             </div>) : (<div id="donationbox" style={{ backgroundColor: 'inherit' }} />)
-      }
+          }
           <ul>
             <li>Main Page</li>
             <li><a href="mailto:ryancreamer301@gmail.com">Talk</a></li>

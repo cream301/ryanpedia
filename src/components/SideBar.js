@@ -4,55 +4,55 @@ import PropTypes from 'prop-types';
 import Link from 'gatsby-link';
 
 const Side = styled.div`
-	grid-area:sidebar;
-	height:100vh;
-	font-family:sans-serif;
-	font-weight:20;
-	color:blue;
-	padding: 0 2% 0 2%;
-	& > Link > img{
-		max-width:300px;
-	}
-	ul{
-	  list-style:none;
+  grid-area:sidebar;
+  height:100vh;
+  font-family:sans-serif;
+  font-weight:20;
+  color:blue;
+  padding: 0 2% 0 2%;
+  & > Link > img{
+	  max-width:300px;
+  }
+  ul{
+		list-style:none;
 	  margin: 0;
-	}
-	li{
+  }
+  li{
 	  line-height: 1.25em;
-	    margin: 0;
-	    padding: 0.15em 0;
-	    font-size: 0.75em;
-	    word-wrap: break-word;
-	    color: #0645ad;
-	    a{
-	      text-decoration: none;
-	      color: #0645ad;
-	      background: none;
-	    }
-	    &:hover > a{
-	      color:#0b0080;
-	      border-bottom:1px solid
-	    }
-	}
-	& > div,ul{
+		margin: 0;
+		padding: 0.15em 0;
+		font-size: 0.75em;
+		word-wrap: break-word;
+		color: #0645ad;
+		a{
+			text-decoration: none;
+			color: #0645ad;
+			background: none;
+		}
+		&:hover > a{
+			color:#0b0080;
+			border-bottom:1px solid
+		}
+  }
+  & > div,ul{
 	  padding-left:8%;
 	  ul{
-	    padding-left:0;
-	    margin-top:3%;
+		  padding-left:0;
+		  margin-top:3%;
 	  }
-	}
-	p{
+  }
+  p{
 	  font-size: 0.75em;
 	  color: #444444;
 	  border-bottom:1px solid #a2a9b1
 	  margin-top:1rem;
 	  margin-bottom:0rem;
 	  line-height:1;
-	}
+  }
 `;
 const SideBar = ({ logo }) => (
   <Side>
-    <Link to="/"><img
+      <Link to="/"><img
       style={{
         paddingTop: '1rem',
         width: '100%',
@@ -62,7 +62,7 @@ const SideBar = ({ logo }) => (
       alt="Ryanpedia logo"
     />
     </Link>
-    <div>
+      <div>
       <p>Interaction with Ryan</p>
       <ul>
         {/* <li>Podcast</li> */}
@@ -71,8 +71,7 @@ const SideBar = ({ logo }) => (
         <li><a href="https://venmo.com/RyanCreamer?via=searchbox">Donate to Ryanpedia</a></li>
       </ul>
     </div>
-
-  </Side>
+    </Side>
 );
 
 export default SideBar;

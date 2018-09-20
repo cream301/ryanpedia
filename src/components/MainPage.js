@@ -44,7 +44,7 @@ a:after{
  font-family: "Font Awesome 5 Free";
  color:blue;
  font-weight: bold;
- margin-left:2px;
+ margin-left:.2vh;
  font-size:10px;
  font-style: normal;
  text-decoration:none;
@@ -53,19 +53,19 @@ p.fromRyy{
   font-size: 14px;
 }
 & > ul{
-  padding-top:5px;
-  margin: 0px 0px 2rem .5rem
+  padding-top:1vh;
+  margin: 0 0 2rem .5rem
 }
 ul > li{
   list-style: square inside;
   & > a{
     color:#0645ad;
   }
-  margin-bottom:0px;
+  margin-bottom:0;
 }
 & > ul > li{
-  padding:0px;
-  margin:0px;
+  padding:0;
+  margin:0;
 }
 `;
 const TopSection = styled.div`
@@ -74,7 +74,7 @@ const TopSection = styled.div`
   grid-auto-rows: auto;
   grid-template-areas: "bodyandnav imagebox";
   margin-bottom:2rem;
-  grid-row-gap: 5px;
+  grid-row-gap: 1vh;
   @media(max-width:950px){
     grid-auto-rows:auto auto
     grid-template-areas: "imagebox" "bodyandnav";
@@ -96,13 +96,13 @@ const Body = styled.div`
   grid-area:body;
   font-size:15px;
   align-content:end;
-  margin-bottom:10px;
+  margin-bottom:1.5vh;
   p{
-    margin:0px;
+    margin:0;
   }
   ul{
-    padding-bottom:5px;
-    margin:0px;
+    padding-bottom:1vh;
+    margin:0;
   }
 `;
 const SectionContainer = styled.div`
