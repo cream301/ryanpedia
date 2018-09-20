@@ -84,13 +84,11 @@ const TopSection = styled.div`
 `;
 const BodyAndNav = styled.div`
   grid-area: bodyandnav;
-  @media(max-width:950px){
     display:grid;
     grid-template-columns:auto auto;
     grid-template-rows:auto;
     grid-template-areas: "navbox body";
     grid-column-gap: 1.5rem
-  }
 `;
 const Body = styled.div`
   grid-area:body;
