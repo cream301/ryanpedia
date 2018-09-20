@@ -70,25 +70,30 @@ ul > li{
 `;
 const TopSection = styled.div`
   display:grid;
-  grid-template-columns: auto auto;
-  grid-auto-rows: auto;
-  grid-template-areas: "bodyandnav imagebox";
-  margin-bottom:2rem;
-  grid-row-gap: 1vh;
-  @media(max-width:950px){
-    grid-auto-rows:auto auto
-    grid-template-areas: "imagebox" "bodyandnav";
-    grid-row-gap: 1.5rem
-    grid-column-gap: 1.5rem
+  grid-auto-rows:auto auto;
+  grid-template-areas: "imagebox" "bodyandnav";
+  grid-row-gap: 1.5rem;
+  grid-column-gap: 1.5rem;
+  @media(min-width:950px){
+    grid-template-columns: auto auto;
+    grid-auto-rows: auto;
+    grid-template-areas: "bodyandnav imagebox";
+    margin-bottom:2rem;
+    grid-row-gap: 1vh;
   }
 `;
 const BodyAndNav = styled.div`
+  display:grid;
   grid-area: bodyandnav;
-    display:grid;
-    grid-template-columns:auto auto;
-    grid-template-rows:auto;
-    grid-template-areas: "navbox body";
-    grid-column-gap: 1.5rem
+  grid-template-columns:auto auto;
+  grid-template-rows:auto;
+  grid-template-areas: "navbox body";
+  grid-column-gap: 1.5rem;
+  @media(min-width:950px){
+    grid-template-columns:auto;
+    grid-template-rows:auto auto;
+    grid-template-areas: "body" "navbox";
+  }
 `;
 const Body = styled.div`
   grid-area:body;
@@ -104,9 +109,9 @@ const Body = styled.div`
   }
 `;
 const SectionContainer = styled.div`
-display:grid;
-grid-template-columns:auto;
-grid-area: SectionContainer;
+  display:grid;
+  grid-template-columns:auto;
+  grid-area: SectionContainer;
 `;
 
 const MainPage = ({
