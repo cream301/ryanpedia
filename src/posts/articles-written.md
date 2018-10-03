@@ -1,6 +1,6 @@
 ---
 title: Articles Written
-num: '3'
+num: '2'
 type: section
 ---
 # Articles Written
