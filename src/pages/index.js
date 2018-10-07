@@ -2,7 +2,7 @@ import React from 'react';
 import Link from 'gatsby-link';
 import { sortSections, nestedArrays, sortNav, handleData } from '../helpFunctions';
 import MainPage from '../components/MainPage';
-
+//testing
 const IndexPage = ({ data }) => ({
   render() {
     const wikiData = handleData(data);
