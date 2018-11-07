@@ -1,5 +1,5 @@
 ---
-title: Videos Written
+title: Comedy Videos
 num: '1'
 type: section
 ---
