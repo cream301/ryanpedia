@@ -1,5 +1,5 @@
 ---
-title: Articles Written
+title: Comedy Articles
 num: '2'
 type: section
 ---
