@@ -3,7 +3,7 @@ title: Comedy Videos
 num: '1'
 type: section
 ---
-# Videos Written
+# Comedy Videos
 
 ## **Dorkly Bits**
 
