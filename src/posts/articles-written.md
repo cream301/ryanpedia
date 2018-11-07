@@ -3,7 +3,7 @@ title: Comedy Articles
 num: '2'
 type: section
 ---
-# Articles Written
+# Comedy Articles
 
 ## CollegeHumor
 
@@ -15,8 +15,6 @@ type: section
 * [The United States Military Ranks, Officially Ranked](http://www.collegehumor.com/post/7057118/the-united-states-military-ranks-officially-ranked)
 * [What All 17 Year Olds Who Aren't Winning Olympic Golds Are Doing](http://www.collegehumor.com/post/7055267/what-all-17-year-olds-who-arent-winning-olympic-golds-are-doing)
 * [Monopoly Cards: Then vs. Now](http://www.collegehumor.com/post/7054448/monopoly-cards-then-vs-now)
-
-
 
 ## **Reductress**
 
