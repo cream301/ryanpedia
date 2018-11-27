@@ -23,7 +23,7 @@ const Layout = ({ children, data }) => (
     <Helmet
       title="Ryanpedia - Ryan Creamer Comedy"
       meta={[
-    { name: 'description', content: "Ryanpedia, Comedian Ryan Creame's personal portfolio" },
+    { name: 'description', content: "Ryanpedia, Comedian Ryan Creamer's personal portfolio" },
     { name: 'keywords', content: 'Ryanpedia, Ryan Creamer, Ryan, Creamer, Ryan Creamer Comedy,' },
     { name: 'viewport', content: 'width=device-width, initial-scale=.5' },
   ]}
