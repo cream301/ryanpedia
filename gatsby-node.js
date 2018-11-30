@@ -1,5 +1,5 @@
-import fs from 'fs-extra-promise'
-import sm from 'sitemap' // npm install --save sitemap
+import fs from 'fs-extra-promise';
+import sm from 'sitemap';
 
 function pagesToSitemap(pages) {
   const urls = pages.map((p) => {
