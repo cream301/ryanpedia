@@ -26,6 +26,7 @@ const Layout = ({ children, data }) => (
     { name: 'description', content: "Ryanpedia, Comedian Ryan Creamer's personal portfolio" },
     { name: 'keywords', content: 'Ryanpedia, Ryan Creamer, Ryan, Creamer, Ryan Creamer Comedy,' },
     { name: 'viewport', content: 'width=device-width, initial-scale=.5' },
+  {name:"google-site-verification" content:"gmPyHVp4O2asQXGxqe-mczFszN5KN-3OQcnJP4UG4Ns"},
   ]}
       link={[
     { rel: 'shortcut icon', type: 'image/png', href: Fav },
