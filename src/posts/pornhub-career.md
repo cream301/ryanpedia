@@ -7,7 +7,7 @@ type: section
 
 Ryan began his porn career on [Pornhub.com](https://www.pornhub.com/model/ryancreamer) with the video "I Tuck You in After You Have Cum", and is now Verified and a proud member of the Pornhub Models Program. His videos have garnered over a million views and 3.5k subscribers. Pornhub likes his videos so much they sent him [a jacket with his name on it](https://www.instagram.com/p/BsyBuc1nvZY/). 
 
-Press:
+## Press
 
 * Buzzfeed News - [A Guy Created His Own Pornhub Channel And Has Been Sharing Hilariously Wholesome and Uplifting Videos](https://www.buzzfeednews.com/article/tanyachen/a-guy-created-his-own-pornhub-channel-and-has-been-sharing)
 * CollegeHumor - [Pornhub's Most Wholesome Pornstar, Ryan Creamer, Has Arrived](http://www.collegehumor.com/post/7058729/pornhubs-most-wholesome-pornstar-has-arrived)
