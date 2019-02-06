@@ -26,5 +26,3 @@ type: section
 * [7 Times the VMA Went to a YouTube Lyric Video](http://reductress.com/post/7-times-the-vma-went-to-a-youtube-lyric-video/)
 * [Here's 8 of the Floppy Hats](http://reductress.com/post/heres-8-of-the-floppy-hats/)
 * [How to Use a Breast Pump to Pick Up Little Bugs and Trap Them Inside](http://reductress.com/post/how-to-use-a-breast-pump-to-pick-up-little-bugs-and-trap-them-inside/)
-
-##
