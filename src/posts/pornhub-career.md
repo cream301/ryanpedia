@@ -5,11 +5,11 @@ type: section
 ---
 # Pornhub
 
-Ryan got started making wholesome videos on [Pornhub.com](https://www.pornhub.com/model/ryancreamer) with his video "I Tuck You in After You Have Cum", and is now Verified with over 2m views and 7k subscribers. Pornhub likes his videos so much they sent him [a jacket with his name on it](https://www.instagram.com/p/BsyBuc1nvZY/). 
+Ryan got started making wholesome videos on [Pornhub.com](https://www.pornhub.com/model/ryancreamer) with his video "I Tuck You in After You Have Cum", and is now Verified with over 3m views and 11k subscribers. Pornhub likes his videos so much they sent him [a jacket with his name on it](https://www.instagram.com/p/BsyBuc1nvZY/). 
 
 ## Press
 
-* Buzzfeed News - [A Guy Created His Own Pornhub Channel And Has Been Sharing Hilariously Wholesome and Uplifting Videos](https://www.buzzfeednews.com/article/tanyachen/a-guy-created-his-own-pornhub-channel-and-has-been-sharing)
+* Buzzfeed - [A Guy Created His Own Pornhub Channel And Has Been Sharing Hilariously Wholesome and Uplifting Videos](https://www.buzzfeednews.com/article/tanyachen/a-guy-created-his-own-pornhub-channel-and-has-been-sharing)
 * New York Magazine - [I Love This Wholesome Pornhub Channel](https://www.thecut.com/2019/02/ryan-creamer-wholesome-pornhub-channel-is-the-best.html)
 * New York Post - [There's a Wholesome, G-Rated Pornhub Channel](https://nypost.com/2019/02/04/theres-a-wholesome-g-rated-pornhub-channel/)
 * CollegeHumor - [Pornhub's Most Wholesome Pornstar, Ryan Creamer, Has Arrived](http://www.collegehumor.com/post/7058729/pornhubs-most-wholesome-pornstar-has-arrived)
