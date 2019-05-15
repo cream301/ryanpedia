@@ -17,4 +17,4 @@ Ryan got started making wholesome videos on [Pornhub.com](https://www.pornhub.co
 * HuffPo - [Comedian Posts Refreshingly Wholesome Videos to Pornhub That Poke Fun At Porn](https://www.huffingtonpost.com/entry/comedian-posts-refreshingly-wholesome-videos-to-pornhub-that-poke-fun-at-porn_us_5c549327e4b09293b203e298)
 * WhatsTrending - [Comedian Ryan Creamer Is Hosting Pornhub's Most Wholesome SFW Channel](https://whatstrending.com/weird/comedian-ryan-creamer-is-hosting-pornhubs-most-wholesome-sfw-channel/)
 * Independent - [Comedian Becomes Viral Hit After Creating Pornhub Channel to Spread Wholesome and Friendly Messages](https://www.indy100.com/article/pornhub-wholesome-videos-ryan-creamer-comedy-viral-8758931)
-* Mirror.uk -  [Man Posts Jokey Videos on Pornhub - And People Think They're Hilarious](https://www.mirror.co.uk/news/weird-news/man-posts-jokey-videos-pornhub-13943405)
+* The Cut - [Ryan Creamer's Wholesome Pornhub Channel Is the Best](https://www.thecut.com/2019/02/ryan-creamer-wholesome-pornhub-channel-is-the-best.html)
