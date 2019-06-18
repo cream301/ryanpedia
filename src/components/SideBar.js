@@ -69,6 +69,7 @@ const SideBar = ({ logo }) => (
         <li><a href="https://twitter.com/ryguyguyry">Twitter</a></li>
         <li><a href="https://www.youtube.com/user/wediditsketch">We Did It</a></li>
         <li><a href="https://venmo.com/RyanCreamer?via=searchbox">Donate to Ryanpedia</a></li>
+	<li><a href="https://www.bonfire.com/ryan-creamer-wholesome-porn-shirts">Merch</a></li>
       </ul>
     </div>
 
