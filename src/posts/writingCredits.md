@@ -1,9 +1,13 @@
 ---
-title: Comedy Videos
+title: Sketches
 num: '2'
 type: section
 ---
-# Comedy Videos
+# Sketches
+
+## CollegeHumor Originals
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q-YWNUO31kk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## **Dorkly Bits**
 
