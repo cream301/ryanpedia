@@ -5,7 +5,7 @@ type: section
 ---
 # Pornhub
 
-Ryan got started making wholesome videos on [Pornhub.com](https://www.pornhub.com/model/ryancreamer) with his video "I Tuck You in After You Have Cum", and is now Verified with over 4m views and 16k subscribers. Pornhub likes his videos so much they sent him [a jacket with his name on it](https://www.instagram.com/p/BsyBuc1nvZY/). 
+Ryan got started making wholesome videos on [Pornhub.com](https://www.pornhub.com/model/ryancreamer) with his video "I Tuck You in After You Have Cum", and is now Verified with over 7m views and 25k subscribers. Pornhub likes his videos so much they sent him [a jacket with his name on it](https://www.instagram.com/p/BsyBuc1nvZY/). 
 
 ## Press
 
