@@ -1,0 +1,8 @@
+---
+title: Acting Reel
+num: '2'
+type: section
+---
+<iframe src="https://player.vimeo.com/video/392800401" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<p><a href="https://vimeo.com/392800401"></a><a href="https://vimeo.com/ryancreamer"></a><a href="https://vimeo.com"></a></p>
