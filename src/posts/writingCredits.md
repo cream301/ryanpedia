@@ -1,9 +1,9 @@
 ---
-title: Sketches
+title: Sketch Comedy
 num: '2'
 type: section
 ---
-# Sketches
+# Sketch Comedy
 
 ## CollegeHumor Originals
 
