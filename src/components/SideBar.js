@@ -63,13 +63,11 @@ const SideBar = ({ logo }) => (
     />
     </Link>
     <div>
-      <p>Interaction with Ryan</p>
+      <p>Interact with Ryan</p>
       <ul>
-        {/* <li>Podcast</li> */}
+	<li><a href="mailto:ryancreamer301@gmail.com">Email</a></li>
         <li><a href="https://twitter.com/ryguyguyry">Twitter</a></li>
-        <li><a href="https://www.youtube.com/user/wediditsketch">We Did It</a></li>
-        <li><a href="https://venmo.com/RyanCreamer?via=searchbox">Donate to Ryanpedia</a></li>
-	<li><a href="https://www.bonfire.com/store/ryan-creamer-wholesome-pornography">Merch</a></li>
+	<li><a href="https://instagram.com/coolboyryan">Instagram</a></li>
       </ul>
     </div>
 
