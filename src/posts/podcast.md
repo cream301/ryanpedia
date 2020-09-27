@@ -3,7 +3,7 @@ title: Podcast
 num: '2'
 type: section
 ---
-## Podcast
+# Podcast
 
 In 2020, Ryan and [Max Knoblauch](https://twitter.com/MaxKnoblauch) created [American Detour](https://podcasts.apple.com/us/podcast/american-detour/id1532106411), a comedy audio tour podcast where each episode listeners are guided through real historic American locations with very fake information.
 
