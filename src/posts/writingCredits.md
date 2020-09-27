@@ -1,6 +1,6 @@
 ---
 title: Comedy Sketches
-num: '4'
+num: '3'
 type: section
 ---
 # Comedy Sketches
