@@ -11,8 +11,6 @@ type: section
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8vBADy56i7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/saPqV0vnqGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## **Dorkly Bits**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Eo7Jd4z_UVg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
