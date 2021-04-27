@@ -1,6 +1,6 @@
 ---
 title: Comedy Articles
-num: '4'
+num: '2'
 type: section
 ---
 # Comedy Articles
