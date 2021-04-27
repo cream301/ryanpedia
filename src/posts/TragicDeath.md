@@ -5,4 +5,4 @@ type: section
 ---
 # Tragic Death
 
-Ryan Creamer is not tragically dead yet. He wishes you clicked on any of the other things.
+You're sick, you know that? Really sick.
