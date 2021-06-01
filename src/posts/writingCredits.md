@@ -21,8 +21,6 @@ type: section
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gFSt1MIws-c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C0-FKewYMw8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ## Indie Stuff
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nC8j3bJJsj8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
