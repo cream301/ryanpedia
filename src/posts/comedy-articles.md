@@ -7,9 +7,11 @@ type: section
 
 ## Clickhole Headlines
 
-[Humiliating: This Adult Man Is Following Behind An Employee Who Has To Unlock His Video Game For Him With A Little Key](https://clickhole.com/humiliating-this-adult-man-is-following-behind-an-employee-who-has-to-unlock-his-video-game-for-him-with-a-little-key/)
+* [Humiliating: This Adult Man Is Following Behind An Employee Who Has To Unlock His Video Game For Him With A Little Key](https://clickhole.com/humiliating-this-adult-man-is-following-behind-an-employee-who-has-to-unlock-his-video-game-for-him-with-a-little-key/)
 
-[Really Wish We Could Talk: One Of The People On This Silent Retreat Is The Ohio State Buckeyes Mascot](https://clickhole.com/really-wish-we-could-talk-one-of-the-people-on-this-silent-retreat-is-the-ohio-state-buckeyes-mascot/)
+
+
+* [Really Wish We Could Talk: One Of The People On This Silent Retreat Is The Ohio State Buckeyes Mascot](https://clickhole.com/really-wish-we-could-talk-one-of-the-people-on-this-silent-retreat-is-the-ohio-state-buckeyes-mascot/)
 
 ## **CollegeHumor**
 
