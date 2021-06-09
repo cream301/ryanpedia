@@ -8,10 +8,9 @@ type: section
 ## Clickhole Headlines
 
 * [Humiliating: This Adult Man Is Following Behind An Employee Who Has To Unlock His Video Game For Him With A Little Key](https://clickhole.com/humiliating-this-adult-man-is-following-behind-an-employee-who-has-to-unlock-his-video-game-for-him-with-a-little-key/)
-
-
-
 * [Really Wish We Could Talk: One Of The People On This Silent Retreat Is The Ohio State Buckeyes Mascot](https://clickhole.com/really-wish-we-could-talk-one-of-the-people-on-this-silent-retreat-is-the-ohio-state-buckeyes-mascot/)
+* [What The Fuck, Stay In Your Lane: The Gym Teacher Just Assigned Homework](https://clickhole.com/what-the-fuck-stay-in-your-lane-the-gym-teacher-just-assigned-homework/)
+* [Someone At Work Must've Died Or Something: Mom Just Said During Dinner That You Never Know When Your Time Will Come, Super Unprompted ](https://clickhole.com/someone-at-work-mustve-died-or-something-mom-just-said-during-dinner-that-you-never-know-when-your-time-will-come-super-unprompted/)
 
 ## **CollegeHumor**
 
