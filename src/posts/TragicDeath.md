@@ -1,6 +1,6 @@
 ---
 title: Tragic Death
-num: '5'
+num: '6'
 type: section
 ---
 # Tragic Death
