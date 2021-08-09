@@ -54,7 +54,7 @@ export const query = graphql`
       }
     }
     wikiLogo: imageSharp(id:{regex:"/ryanpedia.png/"}){
-    sizes(maxWidth: 900){
+    sizes(maxWidth: 500){
       ...GatsbyImageSharpSizes
     }
   }
