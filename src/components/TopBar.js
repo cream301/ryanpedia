@@ -137,7 +137,6 @@ class TopBar extends React.Component {
       }
           <ul>
             <li>Main Page</li>
-            <li />
           </ul>
         </Top>
       );
