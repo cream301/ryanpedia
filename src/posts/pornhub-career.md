@@ -23,5 +23,3 @@ In October of 2018, Ryan began uploading nice, safe for work content to Pornhub.
 <iframe src="https://www.pornhub.com/embed/ph5cf53b0f86e13" frameborder="0" width="560" height="315" scrolling="no" allowfullscreen></iframe>
 
 <iframe src="https://www.pornhub.com/embed/ph5da6081c35101" frameborder="0" width="560" height="315" scrolling="no" allowfullscreen></iframe>
-
-[The rest of the Pornhub videos](https://www.pornhub.com/model/ryancreamer/videos) (NSFW )
