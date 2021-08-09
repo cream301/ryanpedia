@@ -63,11 +63,9 @@ const SideBar = ({ logo }) => (
     />
     </Link>
     <div>
-      <p>Interact with Ryan</p>
+      <p>Contact Ryan</p>
       <ul>
 	<li><a href="mailto:ryancreamer301@gmail.com">Email</a></li>
-        <li><a href="https://twitter.com/ryguyguyry">Twitter</a></li>
-	<li><a href="https://instagram.com/coolboyryan">Instagram</a></li>
       </ul>
     </div>
 
