@@ -11,7 +11,7 @@ const Side = styled.div`
 	color:blue;
 	padding: 0 2% 0 2%;
 	& > Link > img{
-		max-width:300px;
+		max-width:150px;
 	}
 	ul{
 	  list-style:none;
