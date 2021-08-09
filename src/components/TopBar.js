@@ -135,7 +135,6 @@ class TopBar extends React.Component {
               <div className="close" onClick={this.closeDonation} onTouchStart={this.closeDonation} ><i className="fas fa-times" /></div>
             </div>) : (<div id="donationbox" style={{ backgroundColor: 'inherit' }} />)
       }
-          </ul>
         </Top>
       );
     }
