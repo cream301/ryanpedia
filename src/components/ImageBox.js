@@ -30,12 +30,12 @@ const ProfilePic = styled.div`
     margin:0px;
     padding:0px;
     margin-bottom:5px;
-    font-size:14px;
+    font-size:22px;
   }
   p:nth-child(3){
     margin:0px;
     padding:0px;
-    font-size:11px;
+    font-size:22px;
   }
 `;
 const ProfileInfo = styled.div`
