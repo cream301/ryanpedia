@@ -136,7 +136,6 @@ class TopBar extends React.Component {
             </div>) : (<div id="donationbox" style={{ backgroundColor: 'inherit' }} />)
       }
           </ul>
-          </ul>
         </Top>
       );
     }
