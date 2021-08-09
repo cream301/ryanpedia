@@ -55,7 +55,7 @@ const SideBar = ({ logo }) => (
     <Link to="/"><img
       style={{
         paddingTop: '1rem',
-        width: '100%',
+        width: '75%',
         marginBottom: '.5rem',
     }}
       src={logo.sizes.src}
