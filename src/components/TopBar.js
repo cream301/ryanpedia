@@ -137,7 +137,6 @@ class TopBar extends React.Component {
       }
           <ul>
             <li>Main Page</li>
-            <li><a href="mailto:ryancreamer301@gmail.com">Talk</a></li>
             <li />
           </ul>
         </Top>
