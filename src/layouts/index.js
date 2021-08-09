@@ -21,10 +21,10 @@ const PageGrid = styled.div`
 const Layout = ({ children, data }) => (
   <div>
     <Helmet
-      title="Ryanpedia - Ryan Creamer Comedy"
+      title="Ryan Creamer"
       meta={[
-    { name: 'description', content: "Ryanpedia, Comedian Ryan Creamer's personal portfolio" },
-    { name: 'keywords', content: 'Ryanpedia, Ryan Creamer, Ryan, Creamer, Ryan Creamer Comedy,' },
+    { name: 'description', content: "Ryan Creamer is a comedian. He currently works as a headline contributor at Clickhole. He's a former CollegeHumor castmember, Upright Citizens Brigade Theater performer, and Pornhub pornstar. He's most well known for being a photo on the 'Movie Theater' Wikipedia page under the 'Pricing and Admission' section as 'A Theatre-Goer Enjoys a Show'." },
+    { name: 'keywords', content: 'Ryan Creamer, pornhub, Ryan, Creamer, comedy,' },
     { name: 'viewport', content: 'width=device-width, initial-scale=.5' },
   {name:"google-site-verification", content:"gmPyHVp4O2asQXGxqe-mczFszN5KN-3OQcnJP4UG4Ns"},
   ]}
