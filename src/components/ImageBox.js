@@ -35,7 +35,7 @@ const ProfilePic = styled.div`
   p:nth-child(3){
     margin:0px;
     padding:0px;
-    font-size:22px;
+    font-size:18px;
   }
 `;
 const ProfileInfo = styled.div`
