@@ -11,7 +11,7 @@ const Side = styled.div`
 	color:blue;
 	padding: 0 2% 0 2%;
 	& > Link > img{
-		max-width:150px;
+		max-width:250px;
 	}
 	ul{
 	  list-style:none;
@@ -55,7 +55,7 @@ const SideBar = ({ logo }) => (
     <Link to="/"><img
       style={{
         paddingTop: '1rem',
-        width: '75%',
+        width: '95%',
         marginBottom: '.5rem',
     }}
       src={logo.sizes.src}
