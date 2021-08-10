@@ -35,7 +35,7 @@ const ProfilePic = styled.div`
   p:nth-child(3){
     margin:0px;
     padding:0px;
-    font-size:18px;
+    font-size:15px;
   }
 `;
 const ProfileInfo = styled.div`
@@ -58,7 +58,7 @@ const ImageBox = data => (
   <ProfileBox>
     <ProContainer>
       <ProfilePic>
-        <p>Ryan Creamer</p>
+        <p><b>Ryan Creamer</b></p>
         <img src={data.headshot.sizes.src} alt="Ryan Creamer Headshot" />
         <p />
       </ProfilePic>
