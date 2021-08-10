@@ -1,12 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: 'Ryanpedia',
-    desc: 'The Free Ryyclopedia',
+    title: 'Ryan Creamer',
+    desc: 'Comedian',
     probox: [
-      ['Born', 'Tobias Vincent Maguire June 27, 1975 (age 42) Santa Monica, California, U.S.'],
+      ['Born', 'Tobias Vincent Maguire June 27, 1975 Santa Monica, California, U.S.'],
       ['Residence', 'Los Angeles, California, U.S.'],
-      ['Occupation', 'Actor, producer'],
-      ['Years active', '1989–present'],
       ['Spouse(s)', 'Jennifer Meyer (m. 2007; div. 2017)'],
       ['Children', '2'],
     ],
