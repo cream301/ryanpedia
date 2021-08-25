@@ -1,8 +1,9 @@
+
 backend:
-  name: git-gateway
+  name: github
+  repo: cream301/ryanpedia
 
-media_folder: static/assets
-
+media_folder: assets
 collections:
   - name: sections
     label: Sections
