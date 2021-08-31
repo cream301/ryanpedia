@@ -696,7 +696,7 @@ pre tt::after {
 
 .page-grid {
     display: grid;
-    grid-template-columns: 8fr;
+    grid-template-columns: 100%;
     grid-template-rows: auto 30fr 35vh;
     grid-template-areas: 'topbar'
         'content' 

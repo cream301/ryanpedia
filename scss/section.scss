@@ -48,3 +48,13 @@
         height: 350px;
     }
 }
+
+@media screen and (max-width: 800px) {
+
+    .content { 
+
+        iframe{
+            width: 400px;
+        }
+    }
+}
