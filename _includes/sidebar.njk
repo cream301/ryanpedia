@@ -1,0 +1,13 @@
+<div class="side">
+{% image "assets/uploads/ryanpedia.png", "Ryanpedia logo" %}
+  <div>
+    <p>Contact Ryan</p>
+    <ul>
+      {%- for link in info.sidebarItems -%}
+        <li>
+          <a  rel="noreferrer" target="_blank" href="{{link.link}}">{{link.text}}</a>
+        </li>  
+      {%- endfor -%} 
+    </ul>
+  </div>
+</div>

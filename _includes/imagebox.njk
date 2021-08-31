@@ -1,0 +1,16 @@
+  <div class='profile-box'>
+    <div class='profile-container'>
+      <div class='profile-pic'>
+        <p><b>Ryan Creamer</b></p>
+        {% image info.headshotPath, "Ryan Creamer Headshot" %}
+      </div>
+      <div class='profile-info'>
+      {% for info in info.profileInfo%}
+          <div class="infoRow">
+            <div>{{info.title}}</div>
+            <div>{{info.content}}</div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>

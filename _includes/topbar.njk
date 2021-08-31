@@ -1,0 +1,25 @@
+<div class='top'>
+  <div id="siteby">
+    <span>site made by <a href="https://twitter.com/liam_paris" rel="noreferrer">Liam Paris</a>
+    </span>
+  </div>
+  <div id="donationbox">
+    <div>
+      <div class="info-circle-logo"><img alt="info" src="assets/info.svg" /></div>
+    </div>
+    <span>
+      <em>Dear Ryanpedia readers</em>: We are the small team that runs this #5 website in the
+        world. To protect our independence, we'll never run ads. We take no government funds.
+        We run on donations sent directly to Ryan Creamer's bank account. If everyone reading this
+        gave $5, Ryan Creamer would have a lot more money than he does currently.
+        <em>Thank you, from the Ryanpedia Foundation</em>.
+        <a class='please-help-button' rel="noreferrer" href="https://venmo.com/RyanCreamer?via=searchbox">Please Help</a>
+    </span>
+    <button class="close" ><img alt="times" src="assets/times.svg" /></button>
+  </div>
+</div>
+<script>
+  document.querySelector('.close').addEventListener('click', () => {
+    document.querySelector('#donationbox').classList.add('hide');
+  })
+</script>

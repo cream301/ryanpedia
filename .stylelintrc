@@ -1,0 +1,20 @@
+{
+    "rules": {
+        "indentation": 4,
+        "string-quotes": "single",
+        "no-duplicate-selectors": true,
+        "color-hex-case": "lower",
+        "color-hex-length": "long",
+        "selector-combinator-space-after": "always",
+        "selector-attribute-operator-space-before": "always",
+        "selector-attribute-operator-space-after": "always",
+        "selector-attribute-brackets-space-inside": "always",
+        "declaration-block-trailing-semicolon": "always",
+        "declaration-no-important": true,
+        "declaration-colon-space-before": "never",
+        "declaration-colon-space-after": "always",
+        "function-url-quotes": "always",
+        "rule-empty-line-before": "always-multi-line",
+        "selector-pseudo-element-colon-notation": "double"
+    }
+}

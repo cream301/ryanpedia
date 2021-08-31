@@ -1,0 +1,22 @@
+{
+    "name": "Ryan Creamer",
+    "description": "Ryan Creamer is a comedian. He currently works as a headline contributor at Clickhole. He's a former CollegeHumor castmember, Upright Citizens Brigade Theater performer, and Pornhub pornstar. He is most well known for being a photo on the 'Movie Theater'  Wikipedia page under the 'Pricing and Admission' section as 'A Theatre-Goer Enjoys a Show'",
+    "faviconPath": "/assets/favicon.png",
+    "sidebarItems": [
+      {"text":"Email", "link":"mailto:ryancreamer301@gmail.com"},
+      {"text":"Twitter", "link":"https://twitter.com/ryguyguyry"},
+      {"text":"Instagram", "link":"https://www.instagram.com/coolboyryan/"}
+    ],
+    "headshotPath": "assets/uploads/7.jpg",
+    "profileInfo": [{
+      "title": "Born",
+      "content": "Tobias Vincent Maguire June 27, 1975 Santa Monica, California, U.S."
+    },{
+      "title": "Residence",
+      "content": "Los Angeles, California, U.S."
+    },{
+      "title": "Spouse(s)",
+      "content": "Jennifer Meyer (m. 2007; div. 2017)"
+    },
+  {"title": "Children", "content":"2"}]
+  }

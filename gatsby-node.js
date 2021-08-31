@@ -1,1 +1,0 @@
-/*todo generate sitemap*/

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="{{ info.description }}" />
+    <link rel="icon" href="{{ info.faviconPath }}" type="image/png"/>
+    <style>
+      {% set css %}
+        {% include "css/styles.css" %}
+      {% endset %}
+
+      {{ css | postcss | safe }}
+    </style>
+    <title>{{ info.name }}</title>
+    <!--
+  <link rel="canonical" href="{{ currentUrl }}" />
+  <meta property="og:site_name" content="{{ siteTitle }}" />
+  <meta property="og:title" content="{{ pageTitle }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ currentUrl }}" />
+  <meta name="twitter:creator" content="@{{ site.authorHandle | replace('@', '') }}" />
+  <meta name="twitter:description" content="{{ metaDesc }}" />
+  <meta property="og:description" content="{{ metaDesc }}" />
+  <meta property="og:image" content="{{ socialImage }}" />
+  <meta name="twitter:image" content="{{ socialImage }}" />
+  <meta property="og:image:alt" content="Page image for {{ site.name }}" />
+  <meta name="twitter:image:alt" content="Page image for {{ site.name }}" />
+  <meta name="monetization" content="{{ site.paymentPointer }}" />-->
+  </head>
+  <body class='page-grid'>
+    {% include 'topbar.njk' %}
+    {% include 'sidebar.njk' %}
+    <div class='main'>
+      <h1 class="title">
+        Ryan Creamer
+        <img alt="lock" class='lock-image' src="assets/lock.svg" />
+      </h1>
+      <p class="fromRyy">
+        From Ryanpedia, the free Ryyclopedia
+      </p>
+      <div class="topSection">
+        <div class="bodyandnav">
+          <div class="body">
+            {%- for post in collections.titleBody -%}
+              {{ post.templateContent | safe }}
+            {%- endfor -%}
+          </div>
+          {% include 'contentbox.njk' %}
+        </div>
+        {% include 'imagebox.njk' %}
+      </div>
+      <div class="sectionContainer"> 
+        {%- for post in collections.sectionContent  -%}
+            <div class='content'>{{ post.templateContent | safe}}</div>
+        {%- endfor -%}    
+        <script>
+          document.querySelectorAll('.content').forEach((newContent) => {
+            for (let i = 0; i < newContent.querySelectorAll('h1').length; i++) {
+              newContent.querySelectorAll('h1')[i].id = newContent.querySelectorAll('h1')[i].innerText.split(' ').join('_');
+            }
+            // put proper id's on h2s
+            for (let i = 0; i < newContent.querySelectorAll('h2').length; i++) {
+              newContent.querySelectorAll('h2')[i].id = newContent.querySelectorAll('h2')[i].innerText.split(' ').join('_');
+            }
+          });
+          document.querySelectorAll('.table-of-content-link').forEach((button) => {
+            button.addEventListener('click', () => {
+                document.querySelector('#'+button.attributes['data-link'].value)?.scrollIntoView();
+            });
+          });
+        </script>  
+      </div>
+    </div>
+  </body>
+</html>
