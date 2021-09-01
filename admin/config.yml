@@ -1,7 +1,7 @@
 
 backend:
   name: github
-  repo: paris-liam/ryanpedia
+  repo: cream301/ryanpedia
 
 media_folder: assets
 collections:
