@@ -2,6 +2,7 @@
 backend:
   name: github
   repo: cream301/ryanpedia
+  branch: 11ty
 
 media_folder: assets
 collections:
