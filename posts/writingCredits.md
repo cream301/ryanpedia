@@ -1,6 +1,6 @@
 ---
 title: Comedy Videos
-num: '3'
+num: "3"
 type: section
 tags: section
 ---
@@ -10,7 +10,7 @@ tags: section
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4wuDbY9_IOI" frameborder="0" allowfullscreen></iframe>
 
-## **Dorkly Bits**
+## Dorkly Bits
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Eo7Jd4z_UVg" frameborder="0" allowfullscreen></iframe>
 
