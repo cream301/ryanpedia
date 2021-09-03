@@ -10,13 +10,17 @@
     "headshotPath": "assets/uploads/7.jpg",
     "profileInfo": [{
       "title": "Born",
-      "content": "Tobias Vincent Maguire June 27, 1975 Santa Monica, California, U.S."
+      "content": " Tobias Vincent Maguire June 27, 1975 Santa Monica, California, U.S."
     },{
       "title": "Residence",
-      "content": "Los Angeles, California, U.S."
+      "content": " Los Angeles, California, U.S."
     },{
       "title": "Spouse(s)",
       "content": "Jennifer Meyer (m. 2007; div. 2017)"
     },
-  {"title": "Children", "content":"2"}]
+  {
+    "title": "Children",
+    "content": " 2"
+  }
+]
   }
