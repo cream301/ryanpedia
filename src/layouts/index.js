@@ -23,7 +23,7 @@ const Layout = ({ children, data }) => (
     <Helmet
       title="Ryan Creamer"
       meta={[
-    { name: 'description', content: "Ryan Creamer's comedy portfolio. Please click and make the yearly Google Domain payments worth it." },
+    { name: 'description', content: "Ryan Creamer's comedy portfolio. Please click to make the yearly Google Domain payments worth it." },
     { name: 'keywords', content: 'Ryan Creamer, pornhub, comedy, Ryan, Creamer, collegeHumor, Clickhole,' },
     { name: 'viewport', content: 'width=device-width, initial-scale=.5' },
   {name:"google-site-verification", content:"gmPyHVp4O2asQXGxqe-mczFszN5KN-3OQcnJP4UG4Ns"},
