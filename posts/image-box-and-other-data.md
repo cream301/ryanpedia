@@ -3,14 +3,13 @@ title: image-box
 num: "0"
 type: image-box
 tags: image-box
+website_title: Ryan Creamer
+website_description: Ryan Creamer is a comedian. He currently works as a headline contributor at Clickhole. He's a former CollegeHumor castmember, Upright Citizens Brigade Theater performer, and Pornhub pornstar. He is most well known for being a photo on the 'Movie Theater'  Wikipedia page under the 'Pricing and Admission' section as 'A Theatre-Goer Enjoys a Show'
+emailLink: mailto:ryancreamer301@gmail.com"
+twitterLink: https://twitter.com/ryguyguyry
+instagramLink: https://www.instagram.com/coolboyryan/
+headshotFileName: 7.jpg
 ---
-<p>Website_Title: Ryan Creamer</p>
-<p>Website_Description: Ryan Creamer is a comedian. He currently works as a headline contributor at Clickhole. He's a former CollegeHumor castmember, Upright Citizens Brigade Theater performer, and Pornhub pornstar. He is most well known for being a photo on the 'Movie Theater'  Wikipedia page under the 'Pricing and Admission' section as 'A Theatre-Goer Enjoys a Show'</p>
-<p>emailLink: mailto:ryancreamer301@gmail.com</p>
-<p>twitterLink: </p>
-<p>instagramLink: </p>
-<em>to change headshot- upload new image, and put the name of the file below</em>
-<p>headshotFile: 7.jpg</p>
 <ul>
 <li>Born</li>
 <li>Tobias Vincent Maguire June 27, 1975 Santa Monica, California, U.S."</li>
