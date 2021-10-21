@@ -17,7 +17,7 @@ collections:
       - { name: body, label: Post, widget: markdown }
   - name: site_data
     label: site_data
-    folder: posts
+    folder: site_data
     create: false
     fields:
       - { name: title, label: name}
