@@ -1,8 +1,7 @@
 ---
-title: image-box
-num: "0"
-type: image-box
-tags: image-box
+title: site_data
+type: site_data
+tags: site_data
 website_title: Ryan Creamer
 website_description: Ryan Creamer is a comedian. He currently works as a headline contributor at Clickhole. He's a former CollegeHumor castmember, Upright Citizens Brigade Theater performer, and Pornhub pornstar. He is most well known for being a photo on the 'Movie Theater'  Wikipedia page under the 'Pricing and Admission' section as 'A Theatre-Goer Enjoys a Show'
 emailLink: mailto:ryancreamer301@gmail.com"

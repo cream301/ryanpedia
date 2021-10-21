@@ -15,3 +15,17 @@ collections:
       - { name: num, label: order}
       - { name: type, label: type, widget: hidden, default: 'section' }
       - { name: body, label: Post, widget: markdown }
+  - name: site_data
+    label: site_data
+    folder: posts
+    create: false
+    fields:
+      - { name: title, label: name}
+      - { name: type, label: type, widget: hidden, default: 'site_data' }
+      - { name: body, label: imageBoxText, widget: markdown }
+      - { name: website_title, label: website_title }
+      - { name: website_description, label: website_description }
+      - { name: emailLink, label: emailLink }
+      - { name: twitterLink, label: twitterLink }
+      - { name: instagramLink, label: instagramLink }
+      - { name: headshotFileName, label: headshotFileName }
