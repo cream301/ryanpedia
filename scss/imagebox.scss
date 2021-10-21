@@ -43,7 +43,6 @@
 }
 
 .profile-info  {
-    width: 80%;
     margin: auto;
     margin-top: 10px;
 
@@ -55,19 +54,27 @@
     
         li {
             list-style-type: none;
+            width: 100%;
 
             &:nth-child(odd) {
                 font-weight: bold;
-                width: 20%;
                 margin-right: 14px;
             }
-
-            &:nth-child(even) {
-                width: 75%;
-            }
-
-
         }
+    }
+
 }
 
+@media (min-width: 950px) { 
+
+    .profile-info > ul {
+
+        li:nth-child(odd) {
+            width: 20%;
+        }
+
+        li:nth-child(even) {
+            width: 75%;
+        }
+    }
 }
