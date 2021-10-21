@@ -8,7 +8,7 @@ permalink: /
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="{{ info.description }}" />
+    <meta name="description" content="{{collections.site_data_formatted.website_description | safe}}" />
     <link rel="icon" href="{{ info.faviconPath }}" type="image/png"/>
     <style>
       {% set css %}
@@ -17,7 +17,7 @@ permalink: /
 
       {{ css | postcss | safe }}
     </style>
-    <title>{{ info.name }}</title>
+    <title>{{collections.site_data_formatted.website_title | safe}}</title>
     <!--
   <link rel="canonical" href="{{ currentUrl }}" />
   <meta property="og:site_name" content="{{ siteTitle }}" />

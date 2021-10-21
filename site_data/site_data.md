@@ -7,7 +7,7 @@ website_description: Ryan Creamer is a comedian. He currently works as a headlin
 emailLink: mailto:ryancreamer301@gmail.com"
 twitterLink: https://twitter.com/ryguyguyry
 instagramLink: https://www.instagram.com/coolboyryan/
-headshotFileName: 7.jpg
+headshotFileName: assets/uploads/7.jpg
 ---
 <ul>
 <li>Born</li>

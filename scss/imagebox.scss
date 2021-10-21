@@ -42,21 +42,32 @@
     }
 }
 
-.profile-info {
-    display: grid;
-    grid-template-columns: auto;
-    grid-template-rows: repeat(auto, 6);
-    font-size: 14px;
+.profile-info  {
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;
 
-    div.infoRow{
-        display: grid;
-        grid-template-columns: 1fr 3fr;
-        grid-template-rows: auto;
-        padding-top: 5px;
+    ul {
+        display: flex;
+        flex-flow: row wrap;
+        font-size: 14px;
+        list-style-type: none;
+    
+        li {
+            list-style-type: none;
 
-        & > div:nth-child(odd){
-            font-weight: bold;
-            margin-left: 10px;
+            &:nth-child(odd) {
+                font-weight: bold;
+                width: 20%;
+                margin-right: 14px;
+            }
+
+            &:nth-child(even) {
+                width: 75%;
+            }
+
+
         }
-    }
+}
+
 }

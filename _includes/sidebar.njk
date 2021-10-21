@@ -3,11 +3,15 @@
   <div>
     <p>Contact Ryan</p>
     <ul>
-      {%- for link in info.sidebarItems -%}
-        <li>
-          <a  rel="noreferrer" target="_blank" href="{{link.link}}">{{link.text}}</a>
+       <li>
+          <a  rel="noreferrer" target="_blank" href="{{collections.site_data_formatted.emailLink | safe}}">Email</a>
         </li>  
-      {%- endfor -%} 
+        <li>
+          <a  rel="noreferrer" target="_blank" href="{{collections.site_data_formatted.twitterLink | safe}}">Twitter</a>
+        </li>  
+        <li>
+          <a  rel="noreferrer" target="_blank" href="{{collections.site_data_formatted.instagramLink | safe}}">Instagram</a>
+        </li>
     </ul>
   </div>
 </div>

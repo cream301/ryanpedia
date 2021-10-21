@@ -56,6 +56,20 @@ module.exports = function (eleventyConfig) {
             code).css
     });
 
+    eleventyConfig.addCollection('site_data_formatted', function(collectionApi) {
+        let input = collectionApi.getFilteredByTag("site_data")[0].template.frontMatter;
+        const siteData = {
+            website_title: input.data.website_title,
+            website_description: input.data.website_description,
+            emailLink: input.data.emailLink,
+            twitterLink: input.data.twitterLink,
+            instagramLink: input.data.instagramLink,
+            headshotFileName: input.data.headshotFileName,
+            imageBoxText: input.content
+        }
+        return siteData;
+    })
+
     eleventyConfig.addCollection("navLinks", function(collectionApi) {
         let sections = collectionApi.getFilteredByTag("section");
         let navLink = [];

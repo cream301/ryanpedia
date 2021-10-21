@@ -2,15 +2,10 @@
     <div class='profile-container'>
       <div class='profile-pic'>
         <p><b>Ryan Creamer</b></p>
-        {% image info.headshotPath, "Ryan Creamer Headshot" %}
+        <img src="{{collections.site_data_formatted.headshotFileName | safe}}"/>
       </div>
       <div class='profile-info'>
-      {% for info in info.profileInfo%}
-          <div class="infoRow">
-            <div>{{info.title}}</div>
-            <div style="margin-left:5px;">{{info.content}}</div>
-          </div>
-        {% endfor %}
+        {{collections.site_data_formatted.imageBoxText | safe}}
       </div>
     </div>
   </div>
