@@ -74,6 +74,12 @@ permalink: /
                 document.querySelector('#'+button.attributes['data-link'].value)?.scrollIntoView();
             });
           });
+          document.querySelectorAll('a').forEach((link) => {
+            link.target = "_blank"
+            if(link.children.length > 0) {
+              link.classList += 'video-link';
+            }
+          })
         </script>  
       </div>
     </div>

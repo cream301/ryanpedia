@@ -8,12 +8,10 @@ tags: section
 
 ## CollegeHumor Originals
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4wuDbY9_IOI" frameborder="0" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=4wuDbY9_IOI" target="_blank"><img src="assets/uploads/how_to_fix.png"/></a>
 
 ## Dorkly Bits
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Eo7Jd4z_UVg" frameborder="0" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=Eo7Jd4z_UVg" target="_blank"><img src="assets/uploads/worst_real_life_jobs.png"/></a>
 
 ## Indie Stuff
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nC8j3bJJsj8" frameborder="0"  allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=nC8j3bJJsj8" target="_blank"><img src="assets/uploads/nerf_screamer.png"/></a>
