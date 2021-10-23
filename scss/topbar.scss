@@ -138,11 +138,12 @@
 };
 
 .please-help-button {
-    display: inline-block;
+    display: inline-flex;
     background: transparent;
     border: 1px solid black;
     color: black;
     padding: 0 6px;
+    align-items: center;
 }
 
 .hide {

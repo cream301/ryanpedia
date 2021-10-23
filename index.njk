@@ -76,10 +76,19 @@ permalink: /
           });
           document.querySelectorAll('a').forEach((link) => {
             link.target = "_blank"
+            link.rel = "noopener";
             if(link.children.length > 0) {
               link.classList += 'video-link';
             }
-          })
+          });
+          console.warn('ok');
+          document.querySelectorAll('img').forEach((img) => {
+            console.warn(img);
+            if(!img.alt || img.alt === '') {
+              img.alt = img.src;
+            }
+          });
+
         </script>  
       </div>
     </div>

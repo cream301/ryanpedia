@@ -59,6 +59,9 @@ template {
 a {
     background-color: transparent;
     -webkit-text-decoration-skip: objects;
+    min-height: 48px;
+    min-width: 48px;
+    margin: 8px;
 }
 
 a:active,
