@@ -52,8 +52,8 @@
     a.video-link {
         display: block;
         position: relative;
-        width: 500px;
-        height: 281px;
+        width: 50%;
+        height: auto;
 
         h2 {
             position: absolute;
@@ -86,7 +86,8 @@
     .content { 
 
         a.video-link{
-            width: 350px;
+            width: 90%;
+            height: auto;
         }
     }
 }
