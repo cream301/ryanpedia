@@ -29,6 +29,8 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("assets");
     eleventyConfig.addPassthroughCopy("admin");
     eleventyConfig.addPassthroughCopy("posts");
+    eleventyConfig.addPassthroughCopy("robots.txt");
+    eleventyConfig.addPassthroughCopy("sitemap.txt");
     eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
 
     md = new MarkdownIt();

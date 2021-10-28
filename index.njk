@@ -18,20 +18,7 @@ permalink: /
       {{ css | postcss | safe }}
     </style>
     <title>{{collections.site_data_formatted.website_title | safe}}</title>
-    <!--
-  <link rel="canonical" href="{{ currentUrl }}" />
-  <meta property="og:site_name" content="{{ siteTitle }}" />
-  <meta property="og:title" content="{{ pageTitle }}" />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="{{ currentUrl }}" />
-  <meta name="twitter:creator" content="@{{ site.authorHandle | replace('@', '') }}" />
-  <meta name="twitter:description" content="{{ metaDesc }}" />
-  <meta property="og:description" content="{{ metaDesc }}" />
-  <meta property="og:image" content="{{ socialImage }}" />
-  <meta name="twitter:image" content="{{ socialImage }}" />
-  <meta property="og:image:alt" content="Page image for {{ site.name }}" />
-  <meta name="twitter:image:alt" content="Page image for {{ site.name }}" />
-  <meta name="monetization" content="{{ site.paymentPointer }}" />-->
+  <link rel="canonical" href="https://ryancreamer.com/" />
   </head>
   <body class='page-grid'>
     {% include 'topbar.njk' %}
