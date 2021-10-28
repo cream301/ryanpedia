@@ -11,5 +11,40 @@
 
         <!-- Netlify Identity Widget -->
         <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+        <script>
+            window.CMS.registerEditorComponent({
+                id: "video-link",
+                label: "Video Link",
+                fields: [ 
+                    {name: 'title',
+                    label: 'title',
+                    widget: 'string'
+                    },
+                    {name: 'link',
+                    label: 'link',
+                    widget: 'string'
+                    },
+                    {name: 'image',
+                    label: 'image',
+                    widget: 'image'
+                    },
+                ],
+                pattern: /^<a(.)*><h2>(.)*<\/h2><img(.)*\/><\/a>/,
+                fromBlock: function(match) {
+                    return {
+                        title: match[1],
+                        link: match[2],
+                        image: match[3]
+                    }
+                },
+                toBlock: function(data) {
+                    return `<a href=${data.link} target="_blank"><h2>${data.title}</h2><img src=${image}/></a>`
+                },
+                toPreview: function(data) {
+                    return `<a href=${data.link} target="_blank"><h2>${data.title}</h2><img src=${image}/></a>`
+                }
+
+            })
+        </script>
     </body>
 </html>
