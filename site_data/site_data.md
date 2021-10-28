@@ -6,7 +6,7 @@ website_description: Ryan Creamer is a comedian. He currently works as a
   Upright Citizens Brigade Theater performer, and Pornhub pornstar. He is most
   well known for being a photo on the 'Movie Theater'  Wikipedia page under the
   'Pricing and Admission' section as 'A Theatre-Goer Enjoys a Show'
-emailLink: mailto:ryancreamer301@gmail.com"
+emailLink: mailto:ryancreamer301@gmail.com
 twitterLink: https://twitter.com/ryguyguyry
 instagramLink: https://www.instagram.com/coolboyryan/
 headshotFileName: assets/uploads/7.jpg
@@ -19,5 +19,5 @@ type: site_data
 <li>Residence</li>
 <li>Los Angeles, California, U.S.</li>
 <li>Spouse(s)</li>
-<li>Jennifer Meyer (m. 2007; div. 2017)"</li>
+<li>Jennifer Meyer (m. 2007; div. 2017)</li>
 </ul>
