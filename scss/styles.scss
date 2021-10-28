@@ -721,6 +721,10 @@ pre tt::after {
         grid-template-areas: 'sidebar topbar'
             'sidebar content';
     }
+    
+    a {
+        margin: 0
+    }
 }
 
 
