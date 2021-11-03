@@ -18,10 +18,8 @@ In October of 2018, Ryan began uploading nice, safe for work content to Pornhub.
 * The Cut - [Ryan Creamer's Wholesome Pornhub Channel Is the Best](https://www.thecut.com/2019/02/ryan-creamer-wholesome-pornhub-channel-is-the-best.html)
 
 <a href="https://www.pornhub.com/view_video.php?viewkey=ph5bbffc24958be" target="_blank">
-<h2>I Tuck You in After You Come</h2>
+<h2>I Tuck You in After You Cum</h2>
 <img src="assets/uploads/i_tuck_you_in.png"/></a>
-
-
 
 <a href="https://www.pornhub.com/view_video.php?viewkey=ph5bf367185be34" target="_blank">
 <h2>I, Your Step Brother, Decline Your Advances</h2>
@@ -32,5 +30,5 @@ In October of 2018, Ryan began uploading nice, safe for work content to Pornhub.
 <img src="assets/uploads/i_cloud_gaze.png" /></a>
 
 <a href="https://www.pornhub.com/view_video.php?viewkey=ph5da6081c35101" target="_blank">
-<h2>Asa Akira and I do not have Sex at a Hotel</h2>
+<h2>Asa Akira and I do Not Have Sex at a Hotel</h2>
 <img src="assets/uploads/asa_akira_and_i.png" /></a>
