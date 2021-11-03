@@ -16,4 +16,4 @@ tags: section
 
 ## Indie Stuff
 
-<a href="https://vimeo.com/manage/videos/640913215" target="_blank"><img src="assets/uploads/nerf_screamer.png"/></a>
+<a href="https://vimeo.com/manage/videos/640913215" target="_blank"><img src="assets/1-2.jpeg"/></a>
