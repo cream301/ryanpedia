@@ -6,6 +6,8 @@ tags: section
 ---
 # Comedy Videos
 
+<a href="https://www.instagram.com/tv/CV1Fw3PjQhS/" target="_blank"><img src="assets/uploads/how_to_fix.png"/></a>
+
 ## CollegeHumor Originals
 
 <a href="https://www.youtube.com/watch?v=4wuDbY9_IOI" target="_blank"><img src="assets/uploads/how_to_fix.png"/></a>
