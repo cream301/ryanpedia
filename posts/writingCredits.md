@@ -8,7 +8,7 @@ tags: section
 
 ## Bleacher Report's The Portal
 
-<a href="https://www.instagram.com/tv/CV1Fw3PjQhS/" target="_blank"><img src="assets/uploads/how_to_fix.png"/></a>
+<a href="https://www.youtube.com/watch?v=qvX3DJj0rkA&t=51s&ab_channel=BleacherReport" target="_blank"><img src="assets/uploads/how_to_fix.png"/></a>
 
 ## CollegeHumor Originals
 
