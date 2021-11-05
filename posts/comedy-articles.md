@@ -8,6 +8,7 @@ tags: section
 
 ## Clickhole Headlines
 
+* [Is This Really How It’ll Be? Everyone In This Digital Rendering Of The New Shopping Promenade Under Construction Is A Rasta Man](https://clickhole.com/is-this-really-how-itll-be-everyone-in-this-digital-rendering-of-the-new-shopping-promenade-under-construction-is-a-rasta-man/)
 * [Really Wish We Could Talk: One Of The People On This Silent Retreat Is The Ohio State Buckeyes Mascot](https://clickhole.com/really-wish-we-could-talk-one-of-the-people-on-this-silent-retreat-is-the-ohio-state-buckeyes-mascot/)
 * [Humiliating: This Adult Man Is Following Behind An Employee Who Has To Unlock His Video Game For Him With A Little Key](https://clickhole.com/humiliating-this-adult-man-is-following-behind-an-employee-who-has-to-unlock-his-video-game-for-him-with-a-little-key/)
 * [Ever The Showman: This Rhino At The Zoo Is Having Spectacular Diarrhea](https://clickhole.com/ever-the-showman-this-rhino-at-the-zoo-is-having-spectacular-diarrhea/)
