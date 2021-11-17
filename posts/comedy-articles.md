@@ -15,7 +15,8 @@ tags: section
 * [Ever The Showman: This Rhino At The Zoo Is Having Spectacular Diarrhea](https://clickhole.com/ever-the-showman-this-rhino-at-the-zoo-is-having-spectacular-diarrhea/)
 * [Simone Biles Sparked An Important Dialogue About Mental Health. If I May Though, I Would Like To Stee](https://clickhole.com/simone-biles-sparked-an-important-dialogue-about-mental-health-if-i-may-though-i-would-like-to-steer-the-conversation-back-to-what-wind-is/)[r The Conversation Back To What Wind Is](https://clickhole.com/simone-biles-sparked-an-important-dialogue-about-mental-health-if-i-may-though-i-would-like-to-steer-the-conversation-back-to-what-wind-is/)
 * [Top That: The Person In Front Of You At The Wake Just Kissed The Body](https://clickhole.com/top-that-the-person-in-front-of-you-at-the-wake-just-kissed-the-body/)
-* [4 Episodes Of ‘Diners, Drive-Ins And Dives’ Where Guy Fieri Took A Bite Of A Meal, Instantly Vomited, But Then Still Called The Chef A Culinary Gangsta](https://clickhole.com/4-episodes-of-diners-drive-ins-and-dives-where-guy-fieri-took-a-bite-of-a-meal-instantly-vomited-but-then-still-called-the-chef-a-culinary-gangsta/)
+* [5 People Who Went Over Niagara Falls in A Barrel For The Wrong Reasons](https://clickhole.com/5-people-who-went-over-niagara-falls-in-a-barrel-for-the-wrong-reasons/)
+* [](https://clickhole.com/5-people-who-went-over-niagara-falls-in-a-barrel-for-the-wrong-reasons/)[4 Episodes Of ‘Diners, Drive-Ins And Dives’ Where Guy Fieri Took A Bite Of A Meal, Instantly Vomited, But Then Still Called The Chef A Culinary Gangsta](https://clickhole.com/4-episodes-of-diners-drive-ins-and-dives-where-guy-fieri-took-a-bite-of-a-meal-instantly-vomited-but-then-still-called-the-chef-a-culinary-gangsta/)
 
 ## **CollegeHumor**
 
