@@ -6,7 +6,7 @@ tags: section
 ---
 # Comedy Articles
 
-## Best Clickhole Headlines
+## Clickhole Headlines
 
 * [Is This Really How It’ll Be? Everyone In This Digital Rendering Of The New Shopping Promenade Under Construction Is A Rasta Man](https://clickhole.com/is-this-really-how-itll-be-everyone-in-this-digital-rendering-of-the-new-shopping-promenade-under-construction-is-a-rasta-man/)
 * [Really Wish We Could Talk: One Of The People On This Silent Retreat Is The Ohio State Buckeyes Mascot](https://clickhole.com/really-wish-we-could-talk-one-of-the-people-on-this-silent-retreat-is-the-ohio-state-buckeyes-mascot/)
