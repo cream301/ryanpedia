@@ -12,9 +12,9 @@ tags: section
 
 [Really Wish We Could Talk: One Of The People On This Silent Retreat Is The Ohio State Buckeyes Mascot](https://clickhole.com/really-wish-we-could-talk-one-of-the-people-on-this-silent-retreat-is-the-ohio-state-buckeyes-mascot/)
 
-[Whatever You Have To Say You Can Say It Here: Your Doctor’s Office Just Sent You An Email Saying You Have A Message In Your Inbox](<*  https://clickhole.com/whatever-you-have-to-say-you-can-say-it-here-your-doctors-office-just-sent-you-an-email-saying-you-have-a-message-in-your-inbox/>)
+[Whatever You Have To Say You Can Say It Here: Your Doctor’s Office Just Sent You An Email Saying You Have A Message In Your Inbo](https://clickhole.com/whatever-you-have-to-say-you-can-say-it-here-your-doctors-office-just-sent-you-an-email-saying-you-have-a-message-in-your-inbox/)x
 
-[](https://clickhole.com/colonialist-whitewashing-what-was-once-the-proud-frozen-mandarin-orange-chicken-of-trader-ming-now-just-says-trader-joes/)[Humiliating: This Adult Man Is Following Behind An Employee Who Has To Unlock His Video Game For Him With A Little Key](https://clickhole.com/humiliating-this-adult-man-is-following-behind-an-employee-who-has-to-unlock-his-video-game-for-him-with-a-little-key/)
+[Humiliating: This Adult Man Is Following Behind An Employee Who Has To Unlock His Video Game For Him With A Little Key](https://clickhole.com/humiliating-this-adult-man-is-following-behind-an-employee-who-has-to-unlock-his-video-game-for-him-with-a-little-key/)
 
 [Mean But True: The Fun Fact On The Side Of This U-Haul Is That There Are No Tens In Pennsylvania](https://clickhole.com/mean-but-true-the-fun-fact-on-the-side-of-this-u-haul-is-that-there-are-no-tens-in-pennsylvania/)
 
