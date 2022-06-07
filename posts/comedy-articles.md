@@ -28,7 +28,7 @@ tags: section
 
 [The Darkest Hour Comes Just Before The Dawn: SeatGeek Says There Are No Current Or Upcoming Events For Daughtry in The Greater Chicago Area](https://clickhole.com/the-darkest-hour-comes-just-before-the-dawn-seatgeek-says-there-are-no-current-or-upcoming-events-for-daughtry-in-the-greater-chicago-area/)
 
-[Simone Biles Sparked An Important Dialogue About Mental Health. If I May Though, I Would Like To Stee](https://clickhole.com/simone-biles-sparked-an-important-dialogue-about-mental-health-if-i-may-though-i-would-like-to-steer-the-conversation-back-to-what-wind-is/)[r The Conversation Back To What Wind Is](https://clickhole.com/simone-biles-sparked-an-important-dialogue-about-mental-health-if-i-may-though-i-would-like-to-steer-the-conversation-back-to-what-wind-is/)
+[Simone Biles Sparked An Important Dialogue About Mental Health. If I May Though, I Would Like To Steer The Conversation Back To What Wind Is](https://clickhole.com/simone-biles-sparked-an-important-dialogue-about-mental-health-if-i-may-though-i-would-like-to-steer-the-conversation-back-to-what-wind-is/)
 
 ## **CollegeHumor**
 
