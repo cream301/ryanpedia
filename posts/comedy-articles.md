@@ -1,6 +1,6 @@
 ---
 title: Comedy Articles
-num: "4"
+num: "3"
 type: section
 tags: section
 ---
