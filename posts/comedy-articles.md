@@ -22,6 +22,8 @@ tags: section
 
 [Colonialist Whitewashing: What Was Once The Proud Frozen Mandarin Orange Chicken of Trader Ming Now Just Says Trader Joe's](https://clickhole.com/colonialist-whitewashing-what-was-once-the-proud-frozen-mandarin-orange-chicken-of-trader-ming-now-just-says-trader-joes/)
 
+[Embarrassing For Him: Historians Now Believe Christopher Columbus Probably Could’ve Found Spices At The Store](https://clickhole.com/embarrassing-for-him-historians-now-believe-christopher-columbus-probably-couldve-found-spices-at-the-store/)
+
 [Painted Into A Corner: A Shopper Is Standing In Front Of The Baby Carrots So Now This Guy’s Gotta Look Like He’s Interested In Buying A Radish](https://clickhole.com/painted-into-a-corner-a-shopper-is-standing-in-front-of-the-baby-carrots-so-now-this-guys-gotta-look-like-hes-interested-in-buying-a-radish/)
 
 [Ever The Showman: This Rhino At The Zoo Is Having Spectacular Diarrhea](https://clickhole.com/ever-the-showman-this-rhino-at-the-zoo-is-having-spectacular-diarrhea/)
