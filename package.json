@@ -6,7 +6,7 @@
   "dependencies": {
     "@fortawesome/fontawesome": "^1.1.8",
     "@fortawesome/react-fontawesome": "0.0.19",
-    "gatsby": "^1.9.247",
+    "gatsby": "^5.3.3",
     "gatsby-image": "^1.0.51",
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-netlify": "^1.0.19",
