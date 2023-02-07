@@ -22,7 +22,11 @@ tags: section
 
 [Colonialist Whitewashing: What Was Once The Proud Frozen Mandarin Orange Chicken of Trader Ming Now Just Says Trader Joe's](https://clickhole.com/colonialist-whitewashing-what-was-once-the-proud-frozen-mandarin-orange-chicken-of-trader-ming-now-just-says-trader-joes/)
 
-[Embarrassing For Him: Historians Now Believe Christopher Columbus Probably Could’ve Found Spices At The Store](https://clickhole.com/embarrassing-for-him-historians-now-believe-christopher-columbus-probably-couldve-found-spices-at-the-store/)
+[Just A Little Taste: Relapse From Your Digital Detox With One Picture Of The Twitter Logo](https://clickhole.com/just-a-little-taste-relapse-from-your-digital-detox-with-one-picture-of-the-twitter-logo/)
+
+[‘Respect My Authoritahhh!’: Mark Zuckerberg Is Using One Of The FedEx Office Store’s Computers That Charges Per Minute To Watch ‘A Bug’s Life’](https://clickhole.com/respect-my-authoritahhh-mark-zuckerberg-is-using-one-of-the-fedex-office-stores-computers-that-charges-per-minute-to-watch-a-bugs-life/)
+
+[](https://clickhole.com/just-a-little-taste-relapse-from-your-digital-detox-with-one-picture-of-the-twitter-logo/)[Embarrassing For Him: Historians Now Believe Christopher Columbus Probably Could’ve Found Spices At The Store](https://clickhole.com/embarrassing-for-him-historians-now-believe-christopher-columbus-probably-couldve-found-spices-at-the-store/)
 
 [Painted Into A Corner: A Shopper Is Standing In Front Of The Baby Carrots So Now This Guy’s Gotta Look Like He’s Interested In Buying A Radish](https://clickhole.com/painted-into-a-corner-a-shopper-is-standing-in-front-of-the-baby-carrots-so-now-this-guys-gotta-look-like-hes-interested-in-buying-a-radish/)
 
