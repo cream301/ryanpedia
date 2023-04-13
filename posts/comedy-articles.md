@@ -22,6 +22,8 @@ tags: section
 
 [Colonialist Whitewashing: What Was Once The Proud Frozen Mandarin Orange Chicken of Trader Ming Now Just Says Trader Joe's](https://clickhole.com/colonialist-whitewashing-what-was-once-the-proud-frozen-mandarin-orange-chicken-of-trader-ming-now-just-says-trader-joes/)
 
+[5﻿ Yo-Yo Tricks To Bounce Back With After Saying Something Prejudiced](https://clickhole.com/5-yo-yo-tricks-to-bounce-back-with-after-saying-something-prejudiced/)
+
 [Just A Little Taste: Relapse From Your Digital Detox With One Picture Of The Twitter Logo](https://clickhole.com/just-a-little-taste-relapse-from-your-digital-detox-with-one-picture-of-the-twitter-logo/)
 
 [‘Respect My Authoritahhh!’: Mark Zuckerberg Is Using One Of The FedEx Office Store’s Computers That Charges Per Minute To Watch ‘A Bug’s Life’](https://clickhole.com/respect-my-authoritahhh-mark-zuckerberg-is-using-one-of-the-fedex-office-stores-computers-that-charges-per-minute-to-watch-a-bugs-life/)
