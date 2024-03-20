@@ -5,7 +5,7 @@ website_title: Ryan Creamer
 website_description: Ryan Creamer's comedy portfolio. Please click to make the
   yearly domain payments worth it.
 emailLink: mailto:ryancreamer301@gmail.com
-twitterLink: https://twitter.com/ryguyguyry
+twitterLink: x
 instagramLink: https://www.instagram.com/coolboyryan/
 headshotFileName: assets/uploads/7.jpg
 tags: site_data
