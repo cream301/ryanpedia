@@ -12,7 +12,7 @@ tags: section
 
 [Really Wish We Could Talk: One Of The People On This Silent Retreat Is The Ohio State Buckeyes Mascot](https://clickhole.com/really-wish-we-could-talk-one-of-the-people-on-this-silent-retreat-is-the-ohio-state-buckeyes-mascot/)
 
-[Whatever You Have To Say You Can Say It Here: Your Doctor’s Office Just Sent You An Email Saying You Have A Message In Your Inbo](https://clickhole.com/whatever-you-have-to-say-you-can-say-it-here-your-doctors-office-just-sent-you-an-email-saying-you-have-a-message-in-your-inbox/)x
+[Whatever You Have To Say You Can Say It Here: Your Doctor’s Office Just Sent You An Email Saying You Have A Message In Your Inbox](https://clickhole.com/whatever-you-have-to-say-you-can-say-it-here-your-doctors-office-just-sent-you-an-email-saying-you-have-a-message-in-your-inbox/)
 
 [Humiliating: This Adult Man Is Following Behind An Employee Who Has To Unlock His Video Game For Him With A Little Key](https://clickhole.com/humiliating-this-adult-man-is-following-behind-an-employee-who-has-to-unlock-his-video-game-for-him-with-a-little-key/)
 
