@@ -1,5 +1,5 @@
 ---
-title: Comedy Videos
+title: Videos
 num: "4"
 type: section
 tags: section
