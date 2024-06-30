@@ -4,8 +4,6 @@ num: "3"
 type: section
 tags: section
 ---
-# Comedy Articles
-
 ## Clickhole Headlines
 
 [Is This Really How It’ll Be? Everyone In This Digital Rendering Of The New Shopping Promenade Under Construction Is A Rasta Man](https://clickhole.com/is-this-really-how-itll-be-everyone-in-this-digital-rendering-of-the-new-shopping-promenade-under-construction-is-a-rasta-man/)
