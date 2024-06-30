@@ -4,7 +4,7 @@ num: "4"
 type: section
 tags: section
 ---
-# Comedy Videos
+# Videos
 
 ## Bleacher Report's The Portal
 
