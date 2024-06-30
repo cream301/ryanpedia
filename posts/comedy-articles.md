@@ -1,5 +1,5 @@
 ---
-title: Comedy Writing
+title: Articles
 num: "3"
 type: section
 tags: section
