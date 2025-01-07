@@ -11,7 +11,7 @@ tags: site_data
 ---
 <ul>
 <li>Born</li>
-<li>Tobias Vincent Maguire June 27, 1975 Santa Monica, California, U.S.</li>
+<li>John Ass June 27, 1975 Santa Monica, California, U.S.</li>
 <li>Residence</li>
 <li>Los Angeles, California, U.S.</li>
 <li>Spouse(s)</li>
