@@ -3,7 +3,7 @@ title: site_data
 type: site_data
 website_title: Ryan Creamer
 website_description: Ryan Creamer's comedy portfolio.
-emailLink: mailto:ryancreamer301@gmail.com
+emailLink: x
 twitterLink: x
 instagramLink: https://www.instagram.com/coolboyryan/
 headshotFileName: assets/uploads/7.jpg
