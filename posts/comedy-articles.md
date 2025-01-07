@@ -1,10 +1,10 @@
 ---
-title: Articles
+title: Comedy Articles
 num: "3"
 type: section
 tags: section
 ---
-# A﻿rticles
+# Comedy A﻿rticles
 
 ## Clickhole Headlines
 
